@@ -1,0 +1,68 @@
+<!-- Modal Ward -->
+
+<div class="modal fade" id="modalWard" tabindex="-1" aria-labelledby="modalWard" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">โปรดเลือก</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form method="GET" action="/show">
+                <div class="modal-body">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <label class="input-group-text" for="inputGroupSelect01">เลือก Ward</label>
+                        </div>
+                        <select class="custom-select" id="inputGroupSelect01" name="ward">
+                            <option selected="Cardio">Cardio</option>
+                            <option value="Cath-Lab">Cath-Lab</option>
+                            <option value="CCU">CCU</option>
+                            <option value="Check-up">Check-up</option>
+                            <option value="Dental">Dental</option>
+                            <option value="ER">ER</option>
+                            <option value="ICU">ICU</option>
+                            <option value="Nursery">Nursery</option>
+                            <option value="OPD-GI">OPD-GI</option>
+                            <option value="OPD-เด็ก">OPD-เด็ก</option>
+
+                            <option value="OPD-ตา">OPD-ตา</option>
+                            <option value="OR">OR</option>
+                            <option value="OR,Scope">OR,Scope</option>
+                            <option value="Ortho">Ortho</option>
+                            <option value="Vascular">Vascular</option>
+                            <option value="Ward 5A">Ward 5A</option>
+                            <option value="Ward 5B">Ward 5B</option>
+                            <option value="Ward 6A">Ward 6A</option>
+                            <option value="Ward 6B">Ward 6B</option>
+                            <option value="Ward 7A">Ward 7A</option>
+                            <option value="Ward 7B">Ward 7B</option>
+
+                            <option value="Ward 8B">Ward 8B</option>
+                            <option value="Ward 9A">Ward 9A</option>
+                            <option value="Ward 9B">Ward 9B</option>
+                            <option value="X-ray">X-ray</option>
+                            <option value="ไตเทียม">ไตเทียม</option>
+                            <option value="กายภาพ">กายภาพ</option>
+                            <option value="ยานพาหนะ">ยานพาหนะ</option>
+                            <option value="วิสัญญี">วิสัญญี</option>
+                            <option value="วิสัญญี,Scope">วิสัญญี,Scope</option>
+                            <option value="ศัลยกรรม">ศัลยกรรม</option>
+
+                            <option value="ศูนย์กระดูก">ศูนย์กระดูก</option>
+                            <option value="ศูนย์ความงาม">ศูนย์ความงาม</option>
+                            <option value="สูติ-นรีเวช">สูติ-นรีเวช</option>
+                            <option value="ห้องคลอด">ห้องคลอด</option>
+                            <option value="อายุรกรรม">อายุรกรรม</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">ปิด</button>
+                    <button type="submit" class="btn btn-primary">ยืนยัน</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

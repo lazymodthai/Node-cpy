@@ -1,0 +1,41 @@
+@media only screen and (max-width: 414px) {
+    .showX {
+      display: none;
+    }
+    .sizeX {
+        max-width: 82.8px;
+        overflow: hidden;
+    }
+    .container-fluid{
+        width: 100%;
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .btnX{
+        position: fixed; 
+        bottom: 15px; 
+        padding-left: 8px;
+        opacity: 70%;
+    }
+    .btn-toolbar{
+        width: 100%;
+    }
+  }
+  @media only screen and (min-width: 415px) {
+    .sizeX {
+        max-width: 225px;
+        overflow: hidden;
+    }
+    
+    .btnX{
+        position: fixed; 
+        bottom: 15px; 
+        right: 15px;
+        opacity: 70%;
+        padding-left: 15px;
+    }
+  }
+  label{
+      font-weight: 700;
+  }

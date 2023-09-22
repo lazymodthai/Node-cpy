@@ -1,0 +1,6189 @@
+[
+    {
+        "code": "CHC-00007",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-30",
+        "caldate": "28-8-2018",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 16-8-2020 เวลา 17:41 น."
+    },
+    {
+        "code": "CHC-00010",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-01"
+    },
+    {
+        "code": "CHC-00012",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-04",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00013",
+        "ward": "Ward 9A",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-08"
+    },
+    {
+        "code": "CHC-00014",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-02",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00015",
+        "ward": "Ward 6B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-10",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00016",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3300HV",
+        "sn": "-",
+        "ref": "SC-132"
+    },
+    {
+        "code": "CHC-00017",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "model": "PM3300HV"
+    },
+    {
+        "code": "CHC-00018",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator"
+    },
+    {
+        "code": "CHC-00034",
+        "ward": "Ward 8B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CH 0617",
+        "ref": "BP-19",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00035",
+        "ward": "Ward 8B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CH 0616",
+        "ref": "BP-18",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00040",
+        "ward": "Ward 8B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-18",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00041",
+        "ward": "Ward 8B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-16",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00042",
+        "ward": "Ward 8B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-19",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00043",
+        "ward": "Ward 8B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-78",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00044",
+        "ward": "Ward 8B",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00045",
+        "ward": "Ward 8B",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00048",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "09310",
+        "ref": "OF-33",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00055",
+        "ward": "Ward 7B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "AG 7037",
+        "ref": "BP-56",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:4 น."
+    },
+    {
+        "code": "CHC-00061",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "004279",
+        "ref": "SC-30",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00063",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "004278",
+        "ref": "SC-42",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00064",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-44",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00065",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-48",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00066",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-34",
+        "caldate": "เสีย"
+    },
+    {
+        "code": "CHC-00067",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "003203",
+        "ref": "SC-46",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00068",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-180",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00071",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "WESTERN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-22",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00072",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "02595",
+        "ref": "OF-56",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00073",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07043",
+        "ref": "OF-23",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00074",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-20",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00076",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-21",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00079",
+        "ward": "Ward 5A",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00080",
+        "ward": "Ward 5A",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00081",
+        "ward": "Ward 5A",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00082",
+        "ward": "Ward 5A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-25",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00083",
+        "ward": "Ward 5A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-24",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00085",
+        "ward": "Ward 5A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-27",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00086",
+        "ward": "Ward 5A",
+        "name": "Suction Regulator",
+        "brand": "THERAPY",
+        "model": "-",
+        "sn": "140604",
+        "ref": "SC-77",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00087",
+        "ward": "Ward 5B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-76",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00088",
+        "ward": "Ward 5A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-75",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00089",
+        "ward": "Ward 5A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-28",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00092",
+        "ward": "Ward 6A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "AE 7862",
+        "ref": "BP-29",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:8 น."
+    },
+    {
+        "code": "CHC-00098",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-39",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00099",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CK 3942",
+        "ref": "BP-24",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:5 น."
+    },
+    {
+        "code": "CHC-00102",
+        "ward": "Ward 9B",
+        "name": "Intermittent Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00103",
+        "ward": "ICU",
+        "name": "Intermittent Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00105",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-54",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00112",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CJ 6474",
+        "ref": "BP-22",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00113",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CJ 6475",
+        "ref": "BP-17",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00114",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-57",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00119",
+        "ward": "Ward 9A",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "ref": "SC-43",
+        "caldate": "เสีย"
+    },
+    {
+        "code": "CHC-00121",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-04",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00122",
+        "ward": "Ward 9A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3300HV",
+        "sn": "-",
+        "ref": "SC-05",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00123",
+        "ward": "Ward 9A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3300HV",
+        "sn": "-",
+        "ref": "SC-07",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00125",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-47",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00127",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "06024",
+        "ref": "OF-44",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00132",
+        "ward": "Ward 6A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CJ 3239",
+        "ref": "BP-48",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00136",
+        "ward": "ER",
+        "name": "Analog Blood Pressure (แบบเข็ม)",
+        "brand": "TUCOS",
+        "model": "-",
+        "sn": "-",
+        "ref": "BA-03",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00148",
+        "ward": "ER",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-56",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00150",
+        "ward": "ER",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "002709",
+        "ref": "SC-55",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00151",
+        "ward": "ER",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "002714",
+        "ref": "SC-54",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00152",
+        "ward": "ER",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-83",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00153",
+        "ward": "ER",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-84",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00155",
+        "ward": "ER",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "06025",
+        "ref": "OF-82",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00158",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "07045",
+        "ref": "OF-139",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00161",
+        "ward": "ER",
+        "name": "Digital Blood Pressure",
+        "brand": "CAS",
+        "model": "740-1",
+        "sn": "0510335",
+        "ref": "NIBP-20",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00166",
+        "ward": "ER",
+        "name": "Pulse Oximeter"
+    },
+    {
+        "code": "CHC-00170",
+        "ward": "ศูนย์ความงาม",
+        "name": "Aspirators",
+        "brand": "CA-MI",
+        "model": "NEW-ASKIR",
+        "sn": "2957C",
+        "ref": "SC-62",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00172",
+        "ward": "ER",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "MARTIN",
+        "model": "ELEKTROTOM40",
+        "sn": "126122",
+        "ref": "ESU-07",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00173",
+        "ward": "ER",
+        "name": "Ventilator",
+        "brand": "smiths",
+        "model": "PARAPAC",
+        "sn": "-",
+        "ref": "VT-01",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00174",
+        "ward": "ER",
+        "name": "Ventilator",
+        "brand": "smiths",
+        "model": "PARAPAC",
+        "sn": "-",
+        "ref": "VT-03",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00175",
+        "ward": "ER",
+        "name": "Ventilator",
+        "brand": "smiths",
+        "model": "PARAPAC",
+        "sn": "-",
+        "ref": "VT-02",
+        "caldate": "เสีย"
+    },
+    {
+        "code": "CHC-00194",
+        "ward": "ER",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-14",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00199",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CK 3943",
+        "ref": "BP-21",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:9 น."
+    },
+    {
+        "code": "CHC-00200",
+        "ward": "OPD-เด็ก",
+        "name": "Oxygen Flow meter",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00201",
+        "ward": "OPD-เด็ก",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00343",
+        "ref": "OF-107",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00214",
+        "ward": "OPD-เด็ก",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740-2NL",
+        "sn": "0439319",
+        "ref": "NIBP-05",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00215",
+        "ward": "OPD-ตา",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-09",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00233",
+        "ward": "OPD-ตา",
+        "name": "Digital Blood Pressure",
+        "brand": "CAS",
+        "model": "740-1",
+        "sn": "0510336",
+        "ref": "NIBP-02",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00244",
+        "ward": "ศูนย์ความงาม",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740-1",
+        "sn": "0730304",
+        "ref": "NIBP-32",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00260",
+        "ward": "ศูนย์ความงาม",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-119",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00261",
+        "ward": "ศูนย์ความงาม",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-92"
+    },
+    {
+        "code": "CHC-00262",
+        "ward": "ศูนย์ความงาม",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-81",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00269",
+        "ward": "อายุรกรรม",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740",
+        "sn": "0829728",
+        "ref": "NIBP-31",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00283",
+        "ward": "อายุรกรรม",
+        "name": "Aspirators",
+        "brand": "GAST",
+        "model": "DOA-P159-BN",
+        "sn": "1190",
+        "ref": "SC-132",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 16:29 น."
+    },
+    {
+        "code": "CHC-00284",
+        "ward": "สูติ-นรีเวช",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-38",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00292",
+        "ward": "สูติ-นรีเวช",
+        "name": "Fetal Doppler",
+        "brand": "TOITU",
+        "model": "FD-300",
+        "sn": "FD1PX021686706",
+        "ref": "DP-01",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00295",
+        "ward": "สูติ-นรีเวช",
+        "name": "Digital Blood Pressure",
+        "brand": "CAS",
+        "model": "740-1",
+        "sn": "0433737",
+        "ref": "NIBP-09",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00296",
+        "ward": "สูติ-นรีเวช",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "003408",
+        "ref": "SC-84",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00297",
+        "ward": "สูติ-นรีเวช",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07301",
+        "ref": "OF-113",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00298",
+        "ward": "ศูนย์กระดูก",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "04006",
+        "ref": "BP-03",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00299",
+        "ward": "ศูนย์กระดูก",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "04007",
+        "ref": "BP-04",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00308",
+        "ward": "ER",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14486",
+        "ref": "BP-10",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00309",
+        "ward": "Ward 5B",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "08080133078G",
+        "ref": "BP-02",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00310",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14489",
+        "ref": "BP-68",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00311",
+        "ward": "ศัลยกรรม",
+        "name": "Digital Blood Pressure",
+        "brand": "MAX NIBP",
+        "model": "CAS 740",
+        "sn": "0730304",
+        "ref": "NIBP-29",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 16:49 น."
+    },
+    {
+        "code": "CHC-00320",
+        "ward": "OPD-เด็ก",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-15",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00327",
+        "ward": "OPD-เด็ก",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-79",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00329",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "12037",
+        "ref": "OF-67",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00330",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-63",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00331",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07044",
+        "ref": "OF-65",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00332",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "00332",
+        "ref": "OF-09",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00333",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-61",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00334",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "1080778",
+        "ref": "OF-12",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00337",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "11080778",
+        "ref": "OF-10",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00356",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-46",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00357",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "10674",
+        "ref": "OF-06",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00362",
+        "ward": "Ward 5B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CK 9366",
+        "ref": "BP-25",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:4 น."
+    },
+    {
+        "code": "CHC-00369",
+        "ward": "Ward 5B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-136",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00370",
+        "ward": "Ward 5B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-114",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00372",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-48",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00373",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "12038",
+        "ref": "OF-50",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00374",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-68",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00375",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00342",
+        "ref": "OF-161",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00386",
+        "ward": "CCU",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-26",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00393",
+        "ward": "CCU",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-71"
+    },
+    {
+        "code": "CHC-00395",
+        "ward": "CCU",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-73"
+    },
+    {
+        "code": "CHC-00396",
+        "ward": "CCU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-116"
+    },
+    {
+        "code": "CHC-00398",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-47",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00399",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-153"
+    },
+    {
+        "code": "CHC-00400",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-151"
+    },
+    {
+        "code": "CHC-00403",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-106"
+    },
+    {
+        "code": "CHC-00404",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-150"
+    },
+    {
+        "code": "CHC-00405",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "DUMED",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-110"
+    },
+    {
+        "code": "CHC-00406",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-135"
+    },
+    {
+        "code": "CHC-00424",
+        "ward": "CCU",
+        "name": "Pulse Oximeter",
+        "brand": "SIMED",
+        "model": "-",
+        "sn": "-",
+        "ref": "PO-29"
+    },
+    {
+        "code": "CHC-00426",
+        "ward": "CCU",
+        "name": "Spiro meter",
+        "brand": "OHMEDA",
+        "model": "-",
+        "sn": "AAPU 60223",
+        "ref": "ST-02",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 11:29 น."
+    },
+    {
+        "code": "CHC-00431",
+        "ward": "CCU",
+        "name": "PaceMaker (เครื่องกระตุ้นหัวใจ)",
+        "brand": "MEDTRONIC",
+        "model": "5346",
+        "sn": "PAL007956P",
+        "ref": "PM-01",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 11:46 น."
+    },
+    {
+        "code": "CHC-00433",
+        "ward": "CCU",
+        "name": "Pressure Cuff",
+        "brand": "PORTEX",
+        "model": "473",
+        "sn": "1001462",
+        "ref": "BA-05",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00434",
+        "ward": "ICU",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "1028299",
+        "ref": "BP-06",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00438",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-104",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00439",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-170",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00440",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "ref": "SC-36",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00441",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-120",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00443",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-115",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00445",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-112",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00447",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00449",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-"
+    },
+    {
+        "code": "CHC-00450",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "10674",
+        "ref": "OF-127",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00451",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-157",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00452",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "02658",
+        "ref": "OF-140",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00454",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-130",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00457",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "11741",
+        "ref": "OF-79",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00468",
+        "ward": "ICU",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740",
+        "sn": "0436010",
+        "ref": "NIBP-18",
+        "caldate": "หาไม่เจอ"
+    },
+    {
+        "code": "CHC-00469",
+        "ward": "Cardio",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740-1",
+        "sn": "0730301",
+        "ref": "NIBP-07",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 14:30 น."
+    },
+    {
+        "code": "CHC-00487",
+        "ward": "ICU",
+        "name": "Thoracic Vacuum",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-111",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00488",
+        "ward": "ICU",
+        "name": "Thoracic Vacuum",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-110",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00491",
+        "ward": "ICU",
+        "name": "Spiro meter",
+        "brand": "OHMEDA",
+        "model": "RM121",
+        "sn": "AAPU 60223",
+        "ref": "ST-01",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 17:40 น."
+    },
+    {
+        "code": "CHC-00517",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-40",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00518",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07299",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00522",
+        "ward": "Nursery",
+        "name": "Air Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "11853",
+        "ref": "AF-01",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00529",
+        "ward": "Nursery",
+        "name": "Radiant warmer(ให้ความอบอุ่นเด็กด้วยแสง)",
+        "brand": "-",
+        "model": "IWS 2001",
+        "sn": "-",
+        "ref": "RW-01",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-00531",
+        "ward": "Nursery",
+        "name": "Infant Warmer (ช่วยเด็กแรกเกิด)",
+        "brand": "OHMEDA",
+        "model": "-",
+        "sn": "6000-0063-800",
+        "ref": "IFR-02",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-00533",
+        "ward": "Nursery",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "Air-Shield",
+        "model": "C-100",
+        "sn": "JX16120",
+        "ref": "IF-06",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-00547",
+        "ward": "Cath-Lab",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "‐",
+        "sn": "020047",
+        "ref": "BP-13",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00548",
+        "ward": "X-ray",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "‐",
+        "sn": "-",
+        "ref": "SC-58",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00549",
+        "ward": "X-ray",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "‐",
+        "sn": "-",
+        "ref": "SC-59",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00550",
+        "ward": "X-ray",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "‐",
+        "sn": "-",
+        "ref": "SC-60",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00551",
+        "ward": "X-ray",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00318",
+        "ref": "OF-90",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00552",
+        "ward": "X-ray",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00341",
+        "ref": "OF-89",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00565",
+        "ward": "กายภาพ",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "‐",
+        "sn": "-",
+        "ref": "BP-35",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00576",
+        "ward": "กายภาพ",
+        "name": "Laser",
+        "brand": "Techische Daten",
+        "model": "SUPRA COMBI",
+        "sn": "9408W122C",
+        "ref": "LS-01",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-00577",
+        "ward": "กายภาพ",
+        "name": "Knee Continuous Passive Motion(บริหารข้อเข่าแบบต่อเนื่อง)",
+        "ref": "CPM-01",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-00584",
+        "ward": "กายภาพ",
+        "name": "Traction (ชุดดึงคอและหลังอัตโนมัติ)",
+        "brand": "-",
+        "sn": "90082B",
+        "ref": "TC-01",
+        "caldate": "เสีย"
+    },
+    {
+        "code": "CHC-00611",
+        "ward": "ไตเทียม",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "06422",
+        "ref": "OF-148",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00616",
+        "ward": "ไตเทียม",
+        "name": "Digital Blood Pressure",
+        "brand": "CAS",
+        "model": "740-2NL",
+        "sn": "0631106",
+        "ref": "NIBP-35",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00617",
+        "ward": "ไตเทียม",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740-1",
+        "sn": "1114011",
+        "ref": "NIBP-37",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00682",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-105",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00683",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "ref": "SC-100",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00686",
+        "ward": "Dental",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740-1",
+        "sn": "1034003",
+        "ref": "NIBP-33",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00688",
+        "ward": "Ward 7B",
+        "name": "Sphygmomanometer",
+        "brand": "MAC",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-55",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:9 น."
+    },
+    {
+        "code": "CHC-00712",
+        "ward": "ยานพาหนะ",
+        "name": "Aspirators",
+        "brand": "BOSCAROL",
+        "model": "‐",
+        "sn": "-",
+        "ref": "SC-195",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-00716",
+        "ward": "ยานพาหนะ",
+        "name": "Aspirators",
+        "brand": "OSCAR BOSCAROL",
+        "model": "‐",
+        "sn": "10200512218",
+        "ref": "SC-51",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-00717",
+        "ward": "ยานพาหนะ",
+        "name": "Aspirators",
+        "brand": "OSCAR BOSCAROL",
+        "model": "‐",
+        "sn": "1000910160",
+        "ref": "SC-52",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-00719",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "WESTERN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-95",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00720",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "WESTERN",
+        "model": "-",
+        "sn": "0900163",
+        "ref": "OF-73"
+    },
+    {
+        "code": "CHC-00721",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "900163",
+        "ref": "OF-159"
+    },
+    {
+        "code": "CHC-00722",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-160"
+    },
+    {
+        "code": "CHC-00724",
+        "ward": "ยานพาหนะ",
+        "name": "Analog Blood Pressure (แบบเข็ม)",
+        "brand": "-",
+        "model": "‐",
+        "sn": "20638141",
+        "ref": "BA-08"
+    },
+    {
+        "code": "CHC-00725",
+        "ward": "ยานพาหนะ",
+        "name": "Analog Blood Pressure (แบบเข็ม)",
+        "brand": "RIESTER",
+        "model": "‐",
+        "sn": "-",
+        "ref": "BA-01"
+    },
+    {
+        "code": "CHC-00727",
+        "ward": "ยานพาหนะ",
+        "name": "Analog Blood Pressure (แบบเข็ม)",
+        "brand": "RIESTER",
+        "model": "‐",
+        "sn": "-",
+        "ref": "BA-06"
+    },
+    {
+        "code": "CHC-00728",
+        "ward": "ยานพาหนะ",
+        "name": "Analog Blood Pressure (แบบเข็ม)",
+        "brand": "-",
+        "model": "‐",
+        "sn": "-",
+        "ref": "BA-09"
+    },
+    {
+        "code": "CHC-00729",
+        "ward": "ยานพาหนะ",
+        "name": "Analog Blood Pressure (แบบเข็ม)",
+        "brand": "Riester",
+        "model": "Big Ben round",
+        "sn": "090310080",
+        "ref": "BA-02",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00731",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "22836",
+        "ref": "OF-74",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00744",
+        "ward": "วิสัญญี",
+        "name": "Bedside Monitor",
+        "brand": "NIHON KOHDEN",
+        "model": "BSM-2301K",
+        "sn": "10454",
+        "ref": "BM-03",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00745",
+        "ward": "วิสัญญี",
+        "name": "Bedside Monitor",
+        "brand": "NIHON KOHDEN",
+        "model": "BSM-2301K",
+        "sn": "04062",
+        "ref": "BM-02",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00746",
+        "ward": "วิสัญญี",
+        "name": "Bedside Monitor",
+        "brand": "NIHON KOHDEN",
+        "model": "BSM-2301K",
+        "sn": "10455",
+        "ref": "BM-01",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00749",
+        "ward": "อายุรกรรม",
+        "name": "Pulse Oximeter",
+        "model": "520-A",
+        "ref": "PO-45",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00759",
+        "ward": "ห้องคลอด",
+        "name": "Digital Blood Pressure",
+        "brand": "CRITIKON",
+        "model": "1846SX",
+        "sn": "8261H2304",
+        "ref": "NIBP-13",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00760",
+        "ward": "ห้องคลอด",
+        "name": "Digital Blood Pressure",
+        "brand": "CRITIKON",
+        "model": "1846SX",
+        "sn": "8261H2300",
+        "ref": "NIBP-12",
+        "caldate": "ยกเลิก"
+    },
+    {
+        "code": "CHC-00769",
+        "ward": "วิสัญญี",
+        "name": "Forced air Warming Blankets",
+        "brand": "BAIR HUGGER",
+        "model": "505",
+        "sn": "57146",
+        "ref": "FA-01",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00774",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-105"
+    },
+    {
+        "code": "CHC-00777",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07041",
+        "ref": "OF-96",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00778",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-97",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00779",
+        "ward": "วิสัญญี,Scope",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "14133",
+        "ref": "OF-103",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00783",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-20",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00784",
+        "ward": "ห้องคลอด",
+        "name": "Radiant Warmer(ให้ความอบอุ่นเด็กด้วยแสง)",
+        "brand": "FISHER & PAYKEL",
+        "model": "IW980",
+        "sn": "00512",
+        "ref": "IFR-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-00785",
+        "ward": "Nursery",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "HILL-ROM",
+        "model": "TI 100",
+        "sn": "AE01634",
+        "ref": "IF-02",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-00786",
+        "ward": "ห้องคลอด",
+        "name": "Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)",
+        "brand": "COROMETRICS",
+        "model": "116",
+        "sn": "0116BAP08002159",
+        "ref": "FM-02",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00788",
+        "ward": "ห้องคลอด",
+        "name": "Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)",
+        "brand": "HUNTLEIGH",
+        "model": "FD-1",
+        "sn": "-",
+        "ref": "DP-05",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-00789",
+        "ward": "ห้องคลอด",
+        "name": "Vacuum Extractor (เครื่องช่วยคลอดโดยใช้แรงดูด)",
+        "brand": "ATOM",
+        "model": "VD-400",
+        "sn": "0064142",
+        "ref": "SC-136",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-00790",
+        "ward": "ห้องคลอด",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "Pumah",
+        "sn": "0704091016G",
+        "ref": "BP-44",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00793",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "006997",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00795",
+        "ward": "ห้องคลอด",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "02589",
+        "ref": "OF-132",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00812",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-137",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00813",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-70",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00816",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-122"
+    },
+    {
+        "code": "CHC-00817",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-69",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00834",
+        "ward": "OR",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "VALLEYLAB",
+        "model": "FORCE FX",
+        "sn": "F8D60338A",
+        "ref": "ESU-01",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00835",
+        "ward": "OR",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "VALLEYLAB",
+        "model": "FORCE FX",
+        "sn": "F8D60337A",
+        "ref": "ESU-05",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00837",
+        "ward": "OR",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "VALLEYLAB",
+        "model": "FORCE 2",
+        "sn": "FOB9233T",
+        "ref": "ESU-02",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00838",
+        "ward": "OR",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "CODMAN",
+        "model": "8Q 1161",
+        "sn": "PC1557",
+        "ref": "ESU-03",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00904",
+        "ward": "Ward 8B",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-17",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00905",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "06023",
+        "ref": "OF-35"
+    },
+    {
+        "code": "CHC-00906",
+        "ward": "Ward 7B",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-27",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:5 น."
+    },
+    {
+        "code": "CHC-00911",
+        "ward": "Ward 6A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CM 8633",
+        "ref": "BP-49",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-00919",
+        "ward": "ศูนย์กระดูก",
+        "name": "Digital Blood Pressure",
+        "brand": "MAX NIBP",
+        "model": "CAS 740",
+        "sn": "0436010",
+        "ref": "NIBP-38",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 16:35 น."
+    },
+    {
+        "code": "CHC-00920",
+        "ward": "Ward 5B",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14488",
+        "ref": "BP-01",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-00923",
+        "ward": "Ward 5B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-87",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00932",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07300",
+        "ref": "OF-42",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-00933",
+        "ward": "Nursery",
+        "name": "Syring Pump",
+        "model": "SP-100"
+    },
+    {
+        "code": "CHC-00947",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "13045",
+        "ref": "OF-100",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-00964",
+        "ward": "Cardio",
+        "name": "Electrocardiograph",
+        "brand": "FUKUDA DENSHI",
+        "model": "FX-2111",
+        "sn": "36138335",
+        "ref": "EKG-02",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 15:47 น."
+    },
+    {
+        "code": "CHC-00965",
+        "ward": "Cardio",
+        "name": "Electrocardiograph",
+        "brand": "FUKUDA DENSHI",
+        "model": "FX-2111",
+        "sn": "35083739",
+        "ref": "EKG-03",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 16:8 น."
+    },
+    {
+        "code": "CHC-00966",
+        "ward": "Cardio",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-89",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00967",
+        "ward": "Cardio",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-88",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00969",
+        "ward": "Cardio",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-122",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-00970",
+        "ward": "Cardio",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-120"
+    },
+    {
+        "code": "CHC-00971",
+        "ward": "Cardio",
+        "name": "Digital Blood Pressure",
+        "brand": "CAS",
+        "model": "740-2NL",
+        "sn": "0440252",
+        "ref": "NIBP-06",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 15:31 น."
+    },
+    {
+        "code": "CHC-00972",
+        "ward": "Cardio",
+        "name": "Exercise Stress Test",
+        "brand": "GE",
+        "model": "-",
+        "sn": "-",
+        "ref": "EST-01",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-00975",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "Pumah",
+        "sn": "04004",
+        "ref": "BP-11",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00976",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "Pumah",
+        "sn": "04002",
+        "ref": "BP-45",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00977",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "Pumah",
+        "sn": "04001",
+        "ref": "BP-08",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00978",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "Pumah",
+        "sn": "04005",
+        "ref": "BP-07",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00979",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "04003",
+        "ref": "BP-40",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00980",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "-",
+        "sn": "1027206",
+        "ref": "BP-36",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00981",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "-",
+        "sn": "1027203",
+        "ref": "BP-39",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00984",
+        "ward": "Cardio",
+        "name": "Ambulatory Blood Pressure Monitoring(บันทึกความดัน24 Hr)",
+        "brand": "KENZ",
+        "model": "BPM AM 300 CE",
+        "sn": "N9600282",
+        "ref": "ABP-01",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 13:44 น."
+    },
+    {
+        "code": "CHC-00985",
+        "ward": "Check-up",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "0153 M",
+        "sn": "05016",
+        "ref": "BP-70",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00986",
+        "ward": "Check-up",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "0153 M",
+        "sn": "05014",
+        "ref": "BP-64",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00987",
+        "ward": "Check-up",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "0153 M",
+        "sn": "05015",
+        "ref": "BP-65",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00988",
+        "ward": "อายุรกรรม",
+        "name": "Digital Blood Pressure",
+        "brand": "CASNO",
+        "model": "740",
+        "sn": "0436018",
+        "ref": "NIBP-27",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00990",
+        "ward": "Check-up",
+        "name": "Electrocardiograph",
+        "brand": "FUKUDA DENSHI",
+        "model": "FX-2111",
+        "sn": "36117119",
+        "ref": "EKG-04",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-00995",
+        "ward": "OPD-GI",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "012288",
+        "ref": "BP-66",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00996",
+        "ward": "OPD-GI",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "012287",
+        "ref": "BP-47",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00997",
+        "ward": "OPD-GI",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "-",
+        "sn": "1028297",
+        "ref": "BP-41",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-00998",
+        "ward": "OPD-GI",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "-",
+        "sn": "1028299",
+        "ref": "BP-43",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-00999",
+        "ward": "OPD-GI",
+        "name": "Digital Blood Pressure",
+        "brand": "CAS",
+        "model": "740-1",
+        "sn": "0551087",
+        "ref": "NIBP-08",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01002",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "08080133078G",
+        "ref": "BP-62",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01004",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "012284",
+        "ref": "BP-51",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01005",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14493",
+        "ref": "BP-53",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01006",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "012285",
+        "ref": "BP-52",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01007",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14490",
+        "ref": "BP-69",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01008",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14492",
+        "ref": "BP-67",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01009",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-54",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01010",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "012286",
+        "ref": "BP-60",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01013",
+        "ward": "Cath-Lab",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-82"
+    },
+    {
+        "code": "CHC-01020",
+        "ward": "อายุรกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "14491",
+        "ref": "BP-61",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01079",
+        "ward": "CCU",
+        "name": "Electrocardiograph",
+        "model": "ELI 210"
+    },
+    {
+        "code": "CHC-01108",
+        "ward": "Ward 9B",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01109",
+        "ward": "Ward 5B",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "012285",
+        "ref": "BP-46",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-01115",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-19",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01118",
+        "ward": "OPD-เด็ก",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-16",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01123",
+        "ward": "ห้องคลอด",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "10129",
+        "ref": "OF-155",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01164",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-40",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01165",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-41",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01166",
+        "ward": "Ward 9B",
+        "name": "Intermittent Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01170",
+        "ward": "ศัลยกรรม",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "1028297",
+        "ref": "BP-05",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-01173",
+        "ward": "อายุรกรรม",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SA210",
+        "sn": "SP0801-00032",
+        "ref": "PO-27",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 15:47 น."
+    },
+    {
+        "code": "CHC-01178",
+        "ward": "อายุรกรรม",
+        "name": "Aspirators",
+        "brand": "CA-MI",
+        "model": "ASKIR230/12BR",
+        "sn": "3769",
+        "ref": "SC-61",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 15:59 น."
+    },
+    {
+        "code": "CHC-01189",
+        "ward": "ห้องคลอด",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "DRAGER",
+        "model": "TI-500-1C",
+        "sn": "MG07885",
+        "ref": "IF-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01208",
+        "ward": "Ward 8B",
+        "name": "Digital Blood Pressure",
+        "brand": "CASMED",
+        "model": "740-1",
+        "sn": "0707515",
+        "ref": "NIBP-16",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:45 น."
+    },
+    {
+        "code": "CHC-01233",
+        "ward": "Ward 5B",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01252",
+        "ward": "กายภาพ",
+        "name": "Treadmill(ลู่วิ่งไฟฟ้า)",
+        "brand": "DK CITY",
+        "sn": "NG115045",
+        "ref": "TRM-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01256",
+        "ward": "กายภาพ",
+        "name": "Ultrasound(เครื่องรักษาด้วยคลื่นอัลตราซาวน์)",
+        "brand": "CHATTANOOGA",
+        "model": "Intelect 2776",
+        "sn": "-",
+        "ref": "US-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01257",
+        "ward": "กายภาพ",
+        "name": "Ultrasound(เครื่องรักษาด้วยคลื่นอัลตราซาวน์)",
+        "brand": "CHATTANOOGA",
+        "model": "Intelect",
+        "sn": "4519",
+        "ref": "US-02",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01258",
+        "ward": "กายภาพ",
+        "name": "Interferential Therapy(รักษาด้วยคลื่นความถี่กระแสไฟฟ้า)",
+        "brand": "DITER",
+        "model": "D2 ELECTRO",
+        "sn": "12570/80",
+        "ref": "ES-01",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01259",
+        "ward": "กายภาพ",
+        "name": "Microware Diathermy",
+        "brand": "FYSIOMED",
+        "model": "HI TECHLINE",
+        "sn": "-",
+        "ref": "MW-01",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01261",
+        "ward": "กายภาพ",
+        "name": "Traction (ชุดดึงคอและหลังอัตโนมัติ)",
+        "brand": "CHATTANOOGA",
+        "model": "TRU-TRAC",
+        "sn": "1682",
+        "ref": "TC-02",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01262",
+        "ward": "กายภาพ",
+        "name": "Traction (ชุดดึงคอและหลังอัตโนมัติ)",
+        "brand": "CHATTANOOGA",
+        "model": "TRU-TRAC",
+        "sn": "1679",
+        "ref": "TC-03",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01263",
+        "ward": "กายภาพ",
+        "name": "Hydrocollator(เครื่องต้มแผ่นให้ความร้อน)",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "caldate": "ยกเลิก"
+    },
+    {
+        "code": "CHC-01268",
+        "ward": "กายภาพ",
+        "name": "Digital Blood Pressure",
+        "brand": "OMRON",
+        "model": "HEM-7211",
+        "sn": "20101100162LF",
+        "ref": "NIBP-01",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01269",
+        "ward": "กายภาพ",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "-",
+        "sn": "500011974",
+        "ref": "PO-20",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01272",
+        "ward": "กายภาพ",
+        "name": "Treadmill(ลู่วิ่งไฟฟ้า)",
+        "brand": "ANION",
+        "model": "NEXUS",
+        "sn": "-",
+        "ref": "TRM-02",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01276",
+        "ward": "กายภาพ",
+        "name": "Oxygen Flow meter",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01314",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-125"
+    },
+    {
+        "code": "CHC-01316",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "1164384",
+        "ref": "OF-123",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01333",
+        "ward": "Ward 5B",
+        "name": "Aspirators",
+        "brand": "-",
+        "model": "CD-1",
+        "sn": "4506520511",
+        "ref": "SC-67",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 14:54 น."
+    },
+    {
+        "code": "CHC-01334",
+        "ward": "กายภาพ",
+        "name": "Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)",
+        "brand": "METRON",
+        "model": "N602",
+        "sn": "11181153",
+        "ref": "ES-03",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01335",
+        "ward": "กายภาพ",
+        "name": "Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)",
+        "brand": "METRON",
+        "model": "N602",
+        "sn": "11181146",
+        "ref": "ES-02",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01336",
+        "ward": "กายภาพ",
+        "name": "Pulse Oximeter",
+        "ref": "PO-46",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01338",
+        "ward": "สูติ-นรีเวช",
+        "name": "Pulse Oximeter",
+        "brand": "RAPIDO II",
+        "model": "CX 120",
+        "sn": "-",
+        "ref": "PO-06",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01345",
+        "ward": "สูติ-นรีเวช",
+        "name": "Fetal Doppler",
+        "brand": "HUNTLEIGH",
+        "model": "FD1",
+        "sn": "-",
+        "ref": "DP-02",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01355",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-128"
+    },
+    {
+        "code": "CHC-01356",
+        "ward": "ICU",
+        "name": "Air Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "AF-04",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01357",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-108"
+    },
+    {
+        "code": "CHC-01359",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01361",
+        "ward": "ICU",
+        "name": "Air Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "AF-05",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01363",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-90",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01364",
+        "ward": "ICU",
+        "name": "Thoracic Vacuum",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-109",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01365",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-91"
+    },
+    {
+        "code": "CHC-01366",
+        "ward": "กายภาพ",
+        "name": "Treadmill(ลู่วิ่งไฟฟ้า)",
+        "brand": "-",
+        "sn": "-",
+        "ref": "TRM-03",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01375",
+        "ward": "OPD-GI",
+        "name": "Pulse Oximeter",
+        "brand": "Shenzhen",
+        "model": "PC-60C",
+        "sn": "XAJ00HA00143",
+        "ref": "PO-08",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01376",
+        "ward": "OPD-GI",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "09030",
+        "ref": "OF-112",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01378",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-32",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01386",
+        "ward": "Cardio",
+        "name": "Ankle brachial index(เครื่องตรวจสมรรถภาพหลอดเลือดแดง)ABI",
+        "brand": "FUKUDA DENSHI",
+        "model": "VS-1000",
+        "sn": "35062493",
+        "ref": "ABI-01",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 14:1 น."
+    },
+    {
+        "code": "CHC-01387",
+        "ward": "Cardio",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "-",
+        "sn": "1027207",
+        "ref": "BP-12",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01395",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-94",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01396",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-142",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01397",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "PAHSCO",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-131",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01401",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-109",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01410",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "10961",
+        "ref": "OF-163",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01419",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "08851",
+        "ref": "OF-99",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01420",
+        "ward": "OR",
+        "name": "Hypo / Hyperthermia",
+        "brand": "CSZ",
+        "model": "BLANKETROL II",
+        "sn": "132-2-00622",
+        "ref": "HP-01",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01423",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "08852",
+        "ref": "OF-75",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01424",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "08853",
+        "ref": "OF-80",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01425",
+        "ward": "Ward 6B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "14994",
+        "ref": "OF-14",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01426",
+        "ward": "Ward 6B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "14995",
+        "ref": "OF-16",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01427",
+        "ward": "Ward 6B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "14996",
+        "ref": "OF-17",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01429",
+        "ward": "Ward 6B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "14997",
+        "ref": "OF-15",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01431",
+        "ward": "OR,Scope",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-133",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01432",
+        "ward": "OR,Scope",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-132",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01433",
+        "ward": "OR,Scope",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-131",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01434",
+        "ward": "OR,Scope",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-68",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01439",
+        "ward": "Ward 6B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "desk ",
+        "sn": "CS 6865",
+        "ref": "BP-32",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:5 น."
+    },
+    {
+        "code": "CHC-01441",
+        "ward": "Ward 6B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "desk ",
+        "sn": "CS 8859",
+        "ref": "BP-37",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:4 น."
+    },
+    {
+        "code": "CHC-01443",
+        "ward": "กายภาพ",
+        "name": "Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)",
+        "brand": "SANEO",
+        "model": "TENS",
+        "sn": "21003005700",
+        "ref": "ES-05",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01444",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "AG 7028",
+        "ref": "BP-31",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:7 น."
+    },
+    {
+        "code": "CHC-01448",
+        "ward": "กายภาพ",
+        "name": "Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)",
+        "brand": "SANEO",
+        "model": "TENS",
+        "sn": "2003005726",
+        "ref": "ES-06",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01449",
+        "ward": "Ward 6B",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SB200",
+        "sn": "SB1607-00487",
+        "ref": "PO-12",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 11:37 น."
+    },
+    {
+        "code": "CHC-01451",
+        "ward": "ไตเทียม",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "13048",
+        "ref": "OF-145"
+    },
+    {
+        "code": "CHC-01452",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "02594",
+        "ref": "OF-180",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01463",
+        "ward": "Ward 6B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007637",
+        "ref": "SC-19",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01464",
+        "ward": "Ward 6B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007638",
+        "ref": "SC-23",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01466",
+        "ward": "CCU",
+        "name": "Digital Blood Pressure",
+        "brand": "PANASONIC",
+        "model": "EW3106",
+        "sn": "-",
+        "ref": "NIBP-19"
+    },
+    {
+        "code": "CHC-01468",
+        "ward": "CCU",
+        "name": "Suction Regulator",
+        "brand": "AMVEX",
+        "model": "-",
+        "sn": "VRA08730EK",
+        "ref": "SC-49",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01469",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "DUMED",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-111"
+    },
+    {
+        "code": "CHC-01470",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-152"
+    },
+    {
+        "code": "CHC-01475",
+        "ward": "Ward 6B",
+        "name": "Intermittent Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01478",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-09",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01479",
+        "ward": "Ward 6B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007639",
+        "ref": "SC-21",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01480",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01481",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-12",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01488",
+        "ward": "วิสัญญี",
+        "name": "Pulse Oximeter",
+        "brand": "SIMED",
+        "model": "S-100e",
+        "sn": "S 3592",
+        "ref": "PO-04",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-01491",
+        "ward": "วิสัญญี",
+        "name": "Blood warmer(เครื่องอุ่นสารให้เลือด)",
+        "brand": "ANIMEC",
+        "model": "MA-25-SA",
+        "sn": "05310496",
+        "ref": "BW-01",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01509",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-43",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01510",
+        "ward": "Nursery",
+        "name": "Infant Vantilator",
+        "brand": "SLE",
+        "model": "SLE5000",
+        "sn": "54928",
+        "ref": "VT-04",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01524",
+        "ward": "ไตเทียม",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "21923",
+        "ref": "OF-45",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01525",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "02659",
+        "ref": "OF-49"
+    },
+    {
+        "code": "CHC-01534",
+        "ward": "Nursery",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-14",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01535",
+        "ward": "วิสัญญี",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-121",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01541",
+        "ward": "Nursery",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-15",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01543",
+        "ward": "วิสัญญี",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-124",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01544",
+        "ward": "Ward 6B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007640",
+        "ref": "SC-22",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01552",
+        "ward": "วิสัญญี",
+        "name": "Pulse Oximeter",
+        "brand": "MASIMO",
+        "model": "RAD-5V",
+        "sn": "512071",
+        "ref": "PO-03",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-01555",
+        "ward": "Cardio",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SB200",
+        "sn": "195824",
+        "ref": "PO-05",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 13:28 น."
+    },
+    {
+        "code": "CHC-01556",
+        "ward": "วิสัญญี,Scope",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "09031",
+        "ref": "OF-104"
+    },
+    {
+        "code": "CHC-01558",
+        "ward": "วิสัญญี",
+        "name": "Pulse Oximeter",
+        "brand": "NOVAMETRIX",
+        "model": "OXYPLETH",
+        "sn": "77-14809AAQZZ",
+        "ref": "PO-32",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-01559",
+        "ward": "วิสัญญี,Scope",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "003634",
+        "ref": "SC-123",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01560",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "sn": "09032",
+        "ref": "OF-138",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01562",
+        "ward": "อายุรกรรม",
+        "name": "Digital Blood Pressure",
+        "brand": "MAX NIBP",
+        "model": "CAS 740",
+        "sn": "0630827",
+        "ref": "NIBP-26",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 16:9 น."
+    },
+    {
+        "code": "CHC-01563",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "16002",
+        "ref": "OF-64",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01564",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "16003",
+        "ref": "OF-66",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01565",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008280",
+        "ref": "SC-29",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01566",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008281",
+        "ref": "SC-45",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01573",
+        "ward": "Ward 7A",
+        "name": "Vital Signs Monitor",
+        "brand": "EDAN",
+        "model": "M3A",
+        "sn": "302103-M14807840003",
+        "ref": "NIBP-39",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 11:1 น."
+    },
+    {
+        "code": "CHC-01577",
+        "ward": "กายภาพ",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "sn": "CM 8632",
+        "ref": "BP-34"
+    },
+    {
+        "code": "CHC-01587",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "18551, 18552",
+        "ref": "OF-24",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01612",
+        "ward": "ER",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-57",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-01613",
+        "ward": "Ward 7B",
+        "name": "Sphygmomanometer",
+        "brand": "TRIMLINE",
+        "model": "-",
+        "sn": "-",
+        "ref": "BP-28",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:6 น."
+    },
+    {
+        "code": "CHC-01618",
+        "ward": "วิสัญญี,Scope",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-128",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01619",
+        "ward": "วิสัญญี,Scope",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "003635",
+        "ref": "SC-129",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-01621",
+        "ward": "OPD-เด็ก",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-01625",
+        "ward": "X-ray",
+        "name": "Monitor CT",
+        "brand": "iVY",
+        "model": "3000",
+        "sn": "12040821",
+        "ref": "BM-04",
+        "caldate": "ยกเลิก"
+    },
+    {
+        "code": "CHC-01629",
+        "ward": "OPD-ตา",
+        "name": "Aspirators",
+        "brand": "BLUE CROSS",
+        "model": "BM-1500W",
+        "sn": "01390303",
+        "ref": "SC-65",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01631",
+        "ward": "Ward 6A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "desk ",
+        "sn": "CS 0697",
+        "ref": "BP-30",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:8 น."
+    },
+    {
+        "code": "CHC-01644",
+        "ward": "X-ray",
+        "name": "Monitor(MRI)",
+        "brand": "Invivo",
+        "model": "Precess",
+        "sn": "42256",
+        "ref": "BM-07",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01668",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "21923",
+        "ref": "OF-58",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01670",
+        "ward": "Ward 7B",
+        "name": "Pulse Oximeter",
+        "brand": "BEURER",
+        "model": "-",
+        "sn": "A24/005258",
+        "ref": "PO-19",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 11:15 น."
+    },
+    {
+        "code": "CHC-01676",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-01",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01683",
+        "ward": "OPD-เด็ก",
+        "name": "Vital Signs Monitor",
+        "brand": "EDAN",
+        "model": "M3A",
+        "sn": "302019-M15102100001",
+        "ref": "NIBP-04",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01689",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "002712",
+        "ref": "SC-96",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01691",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-99",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01692",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "002579",
+        "ref": "SC-118",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01704",
+        "ward": "อายุรกรรม",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "24804",
+        "ref": "OF-91",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-01706",
+        "ward": "วิสัญญี",
+        "name": "Suction Regulator",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-125",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01708",
+        "ward": "Ward 9A",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SB200",
+        "sn": "SB1603-3978",
+        "ref": "PO-13",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-01710",
+        "ward": "วิสัญญี",
+        "name": "Blood warmer(เครื่องอุ่นสารให้เลือด)",
+        "brand": "ANIMEC",
+        "model": "-",
+        "sn": "05310494",
+        "ref": "BW-02",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01712",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01713",
+        "ward": "ICU",
+        "name": "Intermittent Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01715",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "AMVEX",
+        "model": "-",
+        "sn": "019991KL",
+        "ref": "OF-98",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01716",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "AMVEX",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-102",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01717",
+        "ward": "Nursery",
+        "name": "Syring Driver",
+        "brand": "Graesby",
+        "model": "MS 16A",
+        "sn": "14014603",
+        "ref": "SD-02",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01718",
+        "ward": "Nursery",
+        "name": "Syring Driver",
+        "brand": "Graesby",
+        "model": "MS 16A",
+        "sn": "14014621",
+        "ref": "SD-01",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01720",
+        "ward": "ER",
+        "name": "Electrocardiograph",
+        "brand": "Mortana",
+        "model": "ELI 250C",
+        "sn": "113150160454",
+        "ref": "EKG-05",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01722",
+        "ward": "อายุรกรรม",
+        "name": "Digital Blood Pressure",
+        "brand": "JAWON",
+        "model": "Easy X800R/L",
+        "sn": "EMTH0054-20120912",
+        "ref": "NIBP-28",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 15:33 น."
+    },
+    {
+        "code": "CHC-01723",
+        "ward": "กายภาพ",
+        "name": "Vital Signs Monitor",
+        "brand": "Bionet",
+        "model": "BM1",
+        "sn": "DCK0900011",
+        "ref": "NIBP-11",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01726",
+        "ward": "CCU",
+        "name": "Air Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00991",
+        "ref": "AF-03",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01740",
+        "ward": "Nursery",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "GE",
+        "model": "OmniBed",
+        "sn": "HDGR52929",
+        "ref": "IF-04",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01743",
+        "ward": "สูติ-นรีเวช",
+        "name": "Fetal Doppler",
+        "brand": "TOITU",
+        "model": "-",
+        "sn": "-",
+        "ref": "DP-03",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01744",
+        "ward": "Ward 7B",
+        "name": "Aspirators",
+        "brand": "CA-MI",
+        "model": "ASKIR36BR",
+        "sn": "1387",
+        "ref": "SC-66",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 13:42 น."
+    },
+    {
+        "code": "CHC-01745",
+        "ward": "ICU",
+        "name": "Hypo / Hyperthermia",
+        "brand": "CSZ",
+        "model": "BLANKETROL II",
+        "sn": "133-2-00643",
+        "ref": "HP-02",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 11:5 น."
+    },
+    {
+        "code": "CHC-01746",
+        "ward": "CCU",
+        "name": "Hypo / Hyperthermia",
+        "brand": "CSZ",
+        "model": "BLANKETROL II",
+        "sn": "132-2-00622",
+        "ref": "HP-03",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 11:59 น."
+    },
+    {
+        "code": "CHC-01747",
+        "ward": "วิสัญญี",
+        "name": "Forced air Warming Blankets",
+        "brand": "BAIR HUGGER",
+        "model": "775",
+        "sn": "41116",
+        "ref": "FA-02",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01748",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "25014",
+        "ref": "OF-36",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01749",
+        "ward": "ห้องคลอด",
+        "name": "Neopuff",
+        "brand": "FISHER & PAYKEL",
+        "model": "900",
+        "sn": "-",
+        "ref": "NEOPUFF-01",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01750",
+        "ward": "ห้องคลอด",
+        "name": "Pulse Oximeter",
+        "brand": "MASIMO",
+        "model": "Radical-7",
+        "sn": "017553",
+        "ref": "PO-28",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01753",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "25015",
+        "ref": "OF-39",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01754",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "25016",
+        "ref": "OF-71",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01755",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "25017",
+        "ref": "OF-38",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01758",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "25018",
+        "ref": "OF-69",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01759",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "25019",
+        "ref": "OF-70",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01766",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "11930",
+        "ref": "OF-25",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01767",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "11931",
+        "ref": "OF-27",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01768",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "-",
+        "ref": "OF-05",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01769",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "11933",
+        "ref": "OF-26",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01770",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "-",
+        "ref": "OF-03",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01771",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "12023",
+        "ref": "OF-37",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01772",
+        "ward": "Ward 7B",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SB200",
+        "sn": "SB1503-00647",
+        "ref": "PO-18",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 11:20 น."
+    },
+    {
+        "code": "CHC-01773",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "08814",
+        "ref": "OF-76",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01775",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007589",
+        "ref": "SC-33",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01776",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "007590",
+        "ref": "SC-31",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01777",
+        "ward": "ER",
+        "name": "Vital Signs Monitor",
+        "brand": "EDAN",
+        "model": "M3A",
+        "sn": "302019-M13306850004",
+        "ref": "NIBP-22",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01778",
+        "ward": "OPD-เด็ก",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-141",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01779",
+        "ward": "OPD-เด็ก",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "008449",
+        "ref": "SC-80",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01791",
+        "ward": "OPD-เด็ก",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "24803",
+        "ref": "OF-60"
+    },
+    {
+        "code": "CHC-01794",
+        "ward": "OPD-เด็ก",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "15434",
+        "ref": "OF-59",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01802",
+        "ward": "OR,Scope",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "ERBE",
+        "model": "VL200D",
+        "sn": "11297433",
+        "ref": "ESU-06",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01812",
+        "ward": "Cath-Lab",
+        "name": "Suction Regulator",
+        "brand": "SILBERMANN",
+        "model": "Puritan Bennett",
+        "sn": "-",
+        "ref": "SC-83"
+    },
+    {
+        "code": "CHC-01813",
+        "ward": "Nursery",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "DRAGER",
+        "model": "C2000",
+        "sn": "BU28420",
+        "ref": "IF-07",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01814",
+        "ward": "Nursery",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "DRAGER",
+        "model": "C2000",
+        "sn": "KB28095",
+        "ref": "IF-03",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01815",
+        "ward": "Nursery",
+        "name": "Infant Incubator(ตู้อบเด็กทารก)",
+        "brand": "DRAGER",
+        "model": "C2000",
+        "sn": "BU28418",
+        "ref": "IF-05",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01816",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-126",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01817",
+        "ward": "OR",
+        "name": "Aspirators",
+        "brand": "CA-MI",
+        "model": "HOSPIVAC",
+        "sn": "-",
+        "ref": "SC-130",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01827",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "AMVEX",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-13",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01838",
+        "ward": "กายภาพ",
+        "name": "Electrical Stimulator",
+        "ref": "ES-08",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-01844",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3600",
+        "sn": "005077",
+        "ref": "SC-140"
+    },
+    {
+        "code": "CHC-01845",
+        "ward": "X-ray",
+        "name": "Vital Signs Monitor",
+        "brand": "IRIS",
+        "model": "PMS8210A",
+        "sn": "1304B01",
+        "ref": "NIBP-23",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01849",
+        "ward": "OPD-เด็ก",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-72",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01853",
+        "ward": "Ward 5B",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "sn": "CJ 5447",
+        "ref": "BP-33",
+        "caldate": "17-8-2020",
+        "model": "-",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:8 น."
+    },
+    {
+        "code": "CHC-01855",
+        "ward": "ER",
+        "name": "Pressure Cuff",
+        "brand": "PORTEX",
+        "model": "473",
+        "sn": "-",
+        "ref": "BA-04",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01865",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "PRECISION",
+        "model": "1MFA",
+        "sn": "17035",
+        "ref": "OF-41"
+    },
+    {
+        "code": "CHC-01867",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-134"
+    },
+    {
+        "code": "CHC-01871",
+        "ward": "ICU",
+        "name": "Intermittent Suction Regulator",
+        "brand": "PURITAN",
+        "model": "-F145"
+    },
+    {
+        "code": "CHC-01875",
+        "ward": "Nursery",
+        "name": "Suction Regulator",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-151",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01876",
+        "ward": "ศัลยกรรม",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "-",
+        "sn": "11357 M1390-184007",
+        "ref": "PO-31",
+        "caldate": "หาไม่เจอ"
+    },
+    {
+        "code": "CHC-01878",
+        "ward": "X-ray",
+        "name": "Vital Signs Monitor",
+        "brand": "IRIS",
+        "model": "PMS8210A",
+        "sn": "1312A05",
+        "ref": "NIBP-24",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01880",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "06060",
+        "ref": "OF-124",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01881",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "INSPIRE",
+        "model": "-",
+        "sn": "12036",
+        "ref": "OF-118",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01883",
+        "ward": "ER",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-88"
+    },
+    {
+        "code": "CHC-01884",
+        "ward": "CCU",
+        "name": "Oxygen Flow meter",
+        "model": "-"
+    },
+    {
+        "code": "CHC-01885",
+        "ward": "Cardio",
+        "name": "Oxygen Flow meter",
+        "brand": "PURITAN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-121",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01898",
+        "ward": "Cardio",
+        "name": "Electrocardiograph",
+        "brand": "Mortana",
+        "model": "ELI 250C",
+        "sn": "113450181311",
+        "ref": "EKG-01",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 16:27 น."
+    },
+    {
+        "code": "CHC-01909",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "33897",
+        "ref": "OF-77",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01918",
+        "ward": "CCU",
+        "name": "Suction Regulator",
+        "brand": "AMVEX",
+        "model": "-",
+        "sn": "VRA09180LM",
+        "ref": "SC-50",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01919",
+        "ward": "CCU",
+        "name": "Suction Regulator",
+        "brand": "AMVEX",
+        "model": "-",
+        "sn": "VRA09189LM",
+        "ref": "SC-72",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01925",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-CP",
+        "sn": "24858",
+        "ref": "OF-136",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01926",
+        "ward": "สูติ-นรีเวช",
+        "name": "Fetal Doppler",
+        "brand": "HUNTLEIGH",
+        "model": "FD1",
+        "sn": "-",
+        "ref": "DP-04",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-01929",
+        "ward": "ห้องคลอด",
+        "name": "cloth warmer(เครื่องอุ่นผ้า)",
+        "brand": "ISOTECH",
+        "model": "WS-02",
+        "sn": "121048",
+        "ref": "WS02-02",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-01938",
+        "ward": "ICU",
+        "name": "Pressure Cuff",
+        "brand": "PORTEX",
+        "model": "473",
+        "sn": "1004283",
+        "ref": "BA-07",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 16:57 น."
+    },
+    {
+        "code": "CHC-01940",
+        "ward": "ER",
+        "name": "Pulse Oximeter",
+        "brand": "EDAN",
+        "model": "H100",
+        "sn": "113575-M13901840007",
+        "ref": "PO-02",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01950",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-108",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01954",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "-",
+        "model": "BS-CP",
+        "sn": "-",
+        "ref": "OF-02"
+    },
+    {
+        "code": "CHC-01955",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-CP",
+        "sn": "26078",
+        "ref": "OF-28",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01956",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-CP",
+        "sn": "26080",
+        "ref": "OF-29",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01961",
+        "ward": "ไตเทียม",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007310",
+        "ref": "SC-138",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01962",
+        "ward": "OPD-เด็ก",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-135",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01963",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007316",
+        "ref": "SC-103",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01964",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007317",
+        "ref": "SC-119",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01965",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007318",
+        "ref": "SC-94"
+    },
+    {
+        "code": "CHC-01966",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007319",
+        "ref": "SC-101",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01967",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007314",
+        "ref": "SC-93",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01968",
+        "ward": "ICU",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007315",
+        "ref": "SC-95",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-01969",
+        "ward": "Nursery",
+        "name": "Pulse Oximeter",
+        "brand": "MASIMO",
+        "model": "Radical-7",
+        "sn": "219423",
+        "ref": "PO-35",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-01970",
+        "ward": "OR",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "COVIDIEN",
+        "model": "FORCE FX",
+        "sn": "F2170611AX",
+        "ref": "ESU-04",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-01971",
+        "ward": "OPD-เด็ก",
+        "name": "Pulse Oximeter",
+        "brand": "RAPIDO II",
+        "model": "CX 120",
+        "sn": "0A312A0092",
+        "ref": "PO-10",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-01973",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "007321",
+        "ref": "SC-32",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-01975",
+        "ward": "Ward 5B",
+        "name": "Suction Regulator",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-191",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01983",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-139",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-01990",
+        "ward": "Ward 5A",
+        "name": "Digital Blood Pressure",
+        "brand": "ROSSMAX",
+        "model": "AC1000F",
+        "sn": "13000272",
+        "ref": "NIBP-15",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 13:52 น."
+    },
+    {
+        "code": "CHC-02018",
+        "ward": "Ward 6A",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SA210",
+        "sn": "SP1409-00038",
+        "ref": "PO-11"
+    },
+    {
+        "code": "CHC-02020",
+        "ward": "ห้องคลอด",
+        "name": "Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)",
+        "brand": "EDAN",
+        "model": "F9 Express",
+        "sn": "560204-M14C1730002",
+        "ref": "FM-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-02021",
+        "ward": "Cardio",
+        "name": "Holter Recorder(บันทึกการเต้นของหัวใจ)",
+        "brand": "FUKUDA DENSHI",
+        "model": "FM-180(24 Hr.)",
+        "sn": "50000218",
+        "ref": "HR-01",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-02022",
+        "ward": "Cardio",
+        "name": "Holter Recorder(บันทึกการเต้นของหัวใจ)",
+        "brand": "FUKUDA DENSHI",
+        "model": "FM-180(24 Hr.)",
+        "sn": "50000219",
+        "ref": "HR-02",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-02025",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "39443",
+        "ref": "OF-78",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02060",
+        "ward": "ห้องคลอด",
+        "name": "Suction Regulator",
+        "brand": "PURITAN BENNETT",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-106",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02065",
+        "ward": "สูติ-นรีเวช",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02066",
+        "ward": "ศูนย์กระดูก",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02067",
+        "ward": "OPD-เด็ก",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02068",
+        "ward": "OPD-เด็ก",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02069",
+        "ward": "OPD-ตา",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02070",
+        "ward": "ER",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02071",
+        "ward": "อายุรกรรม",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02072",
+        "ward": "ศูนย์ความงาม",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02073",
+        "ward": "OPD-เด็ก",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02074",
+        "ward": "ศัลยกรรม",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02075",
+        "ward": "Check-up",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02076",
+        "ward": "Cardio",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02077",
+        "ward": "อายุรกรรม",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02078",
+        "ward": "OPD-GI",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02079",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "00991",
+        "ref": "OF-18",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02080",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "00998",
+        "ref": "OF-53",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02081",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "00996",
+        "ref": "OF-55",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02082",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "00993",
+        "ref": "OF-52",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02083",
+        "ward": "Ward 5A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BR-F25",
+        "sn": "00999",
+        "ref": "OF-57",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02084",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00997",
+        "ref": "OF-116",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02085",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00994",
+        "ref": "OF-115"
+    },
+    {
+        "code": "CHC-02086",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00995",
+        "ref": "OF-34",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02087",
+        "ward": "Ward 8B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "00992",
+        "ref": "OF-31"
+    },
+    {
+        "code": "CHC-02100",
+        "ward": "Ward 9B",
+        "name": "Vital Signs Monitor",
+        "brand": "Shenzhen",
+        "model": "PC-900",
+        "sn": "J0100MF00838",
+        "ref": "NIBP-14",
+        "caldate": "ยกเลิก"
+    },
+    {
+        "code": "CHC-02115",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "-",
+        "sn": "1507447",
+        "ref": "BP-59",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:10 น."
+    },
+    {
+        "code": "CHC-02116",
+        "ward": "Ward 7B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "07042",
+        "ref": "OF-62",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02153",
+        "ward": "Ward 9A",
+        "name": "Sphygmomanometer",
+        "brand": "BAUMANOMETER",
+        "model": "-",
+        "sn": "CS 8295",
+        "ref": "BP-23",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:3 น."
+    },
+    {
+        "code": "CHC-02156",
+        "ward": "ICU",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SB 200",
+        "sn": "SB1407-04029",
+        "ref": "PO-17",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02158",
+        "ward": "Nursery",
+        "name": "Oxygen Flow meter",
+        "brand": "CAREFUSION",
+        "model": "-",
+        "sn": "BEF 05211",
+        "ref": "AOB-01"
+    },
+    {
+        "code": "CHC-02161",
+        "ward": "Ward 9B",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "CK-402C",
+        "sn": "1506544",
+        "ref": "BP-63",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:6 น."
+    },
+    {
+        "code": "CHC-02184",
+        "ward": "ไตเทียม",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "09316",
+        "ref": "OF-144",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02185",
+        "ward": "กายภาพ",
+        "name": "Traction (ชุดดึงคอและหลังอัตโนมัติ)",
+        "brand": "BTL",
+        "model": "BTL-16 Plus",
+        "sn": "1C4169034",
+        "ref": "TC-04",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02186",
+        "ward": "กายภาพ",
+        "name": "Aspirators",
+        "brand": "CA-MI",
+        "model": "-",
+        "sn": "50735",
+        "ref": "SC-64",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02187",
+        "ward": "กายภาพ",
+        "name": "Ultrasound(เครื่องรักษาด้วยคลื่นอัลตราซาวน์)",
+        "brand": "CHATTANOOGA",
+        "model": "-",
+        "sn": "-"
+    },
+    {
+        "code": "CHC-02188",
+        "ward": "กายภาพ",
+        "name": "Knee Continuous Passive Motion(บริหารข้อเข่าแบบต่อเนื่อง)",
+        "model": "-",
+        "ref": "CPM-02",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02189",
+        "ward": "OPD-เด็ก",
+        "name": "Aspirators",
+        "brand": "YUWELL",
+        "model": "-",
+        "sn": "H1412010439",
+        "ref": "SC-63",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-02190",
+        "ward": "Ward 5A",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "CK-402C",
+        "sn": "1507450",
+        "ref": "BP-58",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:9 น."
+    },
+    {
+        "code": "CHC-02193",
+        "ward": "วิสัญญี",
+        "name": "Bedside Monitor",
+        "model": "-",
+        "ref": "BM-08",
+        "caldate": "26-8-2019"
+    },
+    {
+        "code": "CHC-02194",
+        "ward": "วิสัญญี,Scope",
+        "name": "Bedside Monitor",
+        "model": "-",
+        "ref": "BM-09",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-02196",
+        "ward": "Vascular",
+        "name": "Fetal Doppler",
+        "brand": "HUNTLEIGH",
+        "model": "D900",
+        "sn": "-",
+        "ref": "DP-06",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02197",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008471",
+        "ref": "SC-113",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02198",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008472",
+        "ref": "SC-85",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02199",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008473",
+        "ref": "SC-38",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02200",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008474",
+        "ref": "SC-37",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02201",
+        "ward": "Ward 9B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008475",
+        "ref": "SC-86",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02238",
+        "ward": "กายภาพ",
+        "name": "Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)",
+        "brand": "SANEO",
+        "model": "TENS",
+        "sn": "2003505080",
+        "ref": "ES-07",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02239",
+        "ward": "กายภาพ",
+        "name": "Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)",
+        "brand": "SANEO",
+        "model": "TENS",
+        "sn": "2003504474",
+        "ref": "ES-04",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02242",
+        "ward": "Check-up",
+        "name": "Digital Blood Pressure",
+        "brand": "JAWON",
+        "model": "Easy X800R/L",
+        "sn": "EMTH0059-20160718",
+        "ref": "NIBP-34",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-02243",
+        "ward": "Ward 9B",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "Sa210",
+        "sn": "PC1702-00003",
+        "ref": "PO-09"
+    },
+    {
+        "code": "CHC-02246",
+        "ward": "Ward 5B",
+        "name": "Oxygen Flow meter",
+        "brand": "SILBERMANN",
+        "model": "-",
+        "sn": "-",
+        "ref": "OF-51",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02250",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "29806",
+        "ref": "OF-137",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02251",
+        "ward": "สูติ-นรีเวช",
+        "name": "Digital Blood Pressure",
+        "brand": "JAWON",
+        "model": "Easy X800R/L",
+        "sn": "EMTH0088-20160718",
+        "ref": "NIBP-10",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-02253",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008686",
+        "ref": "SC-98",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02254",
+        "ward": "Dental",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "008687",
+        "ref": "SC-97",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02267",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "31258",
+        "ref": "OF-08",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02268",
+        "ward": "กายภาพ",
+        "name": "อ่างแช่พาราฟิน (Parafin Bath)",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "PF-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-02269",
+        "ward": "อายุรกรรม",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502180037",
+        "ref": "PO-26",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02270",
+        "ward": "Ward 5B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502180038",
+        "ref": "PO-16",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 14:26 น."
+    },
+    {
+        "code": "CHC-02271",
+        "ward": "Ward 5A",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502180063",
+        "ref": "PO-14",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 14:8 น."
+    },
+    {
+        "code": "CHC-02272",
+        "ward": "Ward 9B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502180064",
+        "ref": "PO-07",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-02274",
+        "ward": "ER",
+        "name": "Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)",
+        "brand": "SURTRON",
+        "model": "Surtron 80",
+        "sn": "362017736",
+        "ref": "ESU-08",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02276",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "32393",
+        "ref": "OF-81",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02277",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "-",
+        "ref": "OF-154"
+    },
+    {
+        "code": "CHC-02281",
+        "ward": "ยานพาหนะ",
+        "name": "Digital Blood Pressure",
+        "brand": "YUWELL",
+        "model": "YE 670 A",
+        "sn": "H161026073",
+        "ref": "NIBP-40",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02282",
+        "ward": "ยานพาหนะ",
+        "name": "Pulse Oximeter",
+        "brand": "Beijing Choice",
+        "model": "MD300CF3",
+        "sn": "141137900484",
+        "ref": "PO-43",
+        "caldate": "30-8-2019"
+    },
+    {
+        "code": "CHC-02283",
+        "ward": "ER",
+        "name": "Digital Blood Pressure",
+        "brand": "OMRON",
+        "model": "HEM-7130",
+        "sn": "20161101432VG",
+        "ref": "NIBP-25",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-02285",
+        "ward": "Ward 9A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F25",
+        "sn": "34624",
+        "ref": "OF-07",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02286",
+        "ward": "Nursery",
+        "name": "Infant Warmer (ช่วยเด็กแรกเกิด)",
+        "brand": "DRAGER",
+        "model": "Babytherm 8004",
+        "ref": "IFR-03",
+        "caldate": "28-8-2019"
+    },
+    {
+        "code": "CHC-02287",
+        "ward": "ห้องคลอด",
+        "name": "Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)",
+        "brand": "TOITU",
+        "model": "MT-610",
+        "sn": "M160915",
+        "ref": "FM-03",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-02288",
+        "ward": "ห้องคลอด",
+        "name": "Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)",
+        "brand": "TOITU",
+        "model": "MT-610",
+        "sn": "M160916",
+        "ref": "FM-04",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-02296",
+        "ward": "OPD-ตา",
+        "name": "Digital Blood Pressure",
+        "brand": "JAWON",
+        "model": "Easy X800R/L",
+        "sn": "EMTH0188-20160831",
+        "ref": "NIBP-03",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02297",
+        "ward": "ER",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "35864",
+        "ref": "OF-87",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02298",
+        "ward": "ยานพาหนะ",
+        "name": "Aspirators",
+        "brand": "FLAEM",
+        "model": "Port A",
+        "sn": "16A285 0177",
+        "ref": "SC-117",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02299",
+        "ward": "Ward 5A",
+        "name": "Vital Signs Monitor",
+        "brand": "Shenzhen",
+        "model": "PC-900",
+        "sn": "J0100NC00321",
+        "ref": "NIBP-17",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-02305",
+        "ward": "ICU",
+        "name": "Aspirators",
+        "brand": "YUWELL",
+        "model": "7E-A",
+        "sn": "H160819036",
+        "ref": "SC-142",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 17:13 น."
+    },
+    {
+        "code": "CHC-02325",
+        "ward": "Ward 9B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502331821",
+        "ref": "PO-44",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:16 น."
+    },
+    {
+        "code": "CHC-02326",
+        "ward": "Ward 9B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502331822",
+        "ref": "PO-42",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:17 น."
+    },
+    {
+        "code": "CHC-02327",
+        "ward": "Ward 8B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "PureSAT",
+        "sn": "502331819",
+        "ref": "PO-39",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-02328",
+        "ward": "ยานพาหนะ",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "F-25",
+        "sn": "43257",
+        "ref": "OF-170",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02334",
+        "ward": "Cath-Lab",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "40907",
+        "ref": "OF-179",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02336",
+        "ward": "Nursery",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009552",
+        "ref": "SC-16",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02359",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44109",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02360",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44110",
+        "ref": "OF-176",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02361",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44111",
+        "ref": "OF-178",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02362",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44112",
+        "ref": "OF-173",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02363",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44113",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02364",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44114",
+        "ref": "OF-172",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02365",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44115",
+        "ref": "OF-174",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02366",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "model": "BS-F25"
+    },
+    {
+        "code": "CHC-02367",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44117",
+        "ref": "OF-177",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02368",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44118",
+        "ref": "OF-171",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02369",
+        "ward": "ICU",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44119",
+        "ref": "OF-175",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02370",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44120",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02371",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44121",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02372",
+        "ward": "Ward 9B",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44122",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02373",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44123",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02374",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44124",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02375",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44125",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02376",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44126",
+        "ref": "OF-162",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02377",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44127",
+        "ref": "OF-163",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02378",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44128",
+        "ref": "OF-164",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02379",
+        "ward": "Ward 6A",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "44129",
+        "ref": "OF-165",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02380",
+        "ward": "OPD-เด็ก",
+        "name": "Infrared Temp",
+        "model": "11-910",
+        "caldate": "นำส่ง สสท."
+    },
+    {
+        "code": "CHC-02381",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009031",
+        "ref": "SC-189",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02382",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009032",
+        "ref": "SC-185",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02383",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009033",
+        "ref": "SC-161",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02384",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009034",
+        "ref": "SC-187",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02385",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009035",
+        "ref": "SC-188",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02386",
+        "ward": "Ward 6A",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009036",
+        "ref": "SC-186",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02387",
+        "ward": "Ward 5B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3600",
+        "sn": "007617",
+        "ref": "SC-190",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02388",
+        "ward": "Ward 5B",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "CK-301",
+        "sn": "1703185",
+        "ref": "BP-72",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:3 น."
+    },
+    {
+        "code": "CHC-02389",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009223",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02390",
+        "ward": "Ward 7B",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3100HV",
+        "sn": "009224",
+        "ref": "SC-181",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02394",
+        "ward": "รับส่งผู้ป่วย",
+        "name": "Oxygen Flow meter",
+        "model": "BS-F25"
+    },
+    {
+        "code": "CHC-02395",
+        "ward": "ER",
+        "name": "Fetal Doppler",
+        "brand": "HUNTLEIGH",
+        "model": "MD2",
+        "sn": "-",
+        "ref": "DP-07",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-02396",
+        "ward": "Vascular",
+        "name": "Mini Doppler Dopplex",
+        "brand": "HUNTLEIGH",
+        "model": "DOPPLEX D900",
+        "ref": "DP-09",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-02397",
+        "ward": "ICU",
+        "name": "Centrifuge",
+        "brand": "Hettich",
+        "model": "HAEMATOKRIT200",
+        "sn": "0001897-02",
+        "ref": "CF-01",
+        "caldate": "30-8-2018"
+    },
+    {
+        "code": "CHC-02403",
+        "ward": "Ward 8B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502331820",
+        "ref": "PO-41",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:24 น."
+    },
+    {
+        "code": "CHC-02404",
+        "ward": "OR",
+        "name": "Forced air Warming Blankets",
+        "brand": "BAIR HUGGER",
+        "model": "775",
+        "sn": "110665",
+        "ref": "FA-03",
+        "caldate": "22-8-2019"
+    },
+    {
+        "code": "CHC-02406",
+        "ward": "Ward 5A",
+        "name": "Vital Signs Monitor",
+        "model": "PC900"
+    },
+    {
+        "code": "CHC-02407",
+        "ward": "ER",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "BS-F25",
+        "sn": "50639",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02424",
+        "ward": "CCU",
+        "name": "Electrocardiograph",
+        "brand": "Philips",
+        "model": "PageWriter TC30",
+        "sn": "CND1732324",
+        "ref": "EKG-06",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-02427",
+        "ward": "Check-Up",
+        "name": "Electrocardiograph",
+        "brand": "Philips",
+        "model": "PageWriter TC30",
+        "ref": "EKG-07",
+        "caldate": "ยกเลิก"
+    },
+    {
+        "code": "CHC-02436",
+        "ward": "Vascular",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "51530",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02447",
+        "ward": "Vascular",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "51531",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02450",
+        "ward": "Ward 9A",
+        "name": "Mini Doppler Dopplex",
+        "brand": "HUNTLEIGH",
+        "model": "DOPPLEX D900",
+        "sn": "-",
+        "ref": "DP-08",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-02451",
+        "ward": "ICU",
+        "name": "Mini Doppler Dopplex",
+        "brand": "HUNTLEIGH",
+        "model": "DOPPLEX D900",
+        "ref": "DP-10",
+        "caldate": "20-8-2019"
+    },
+    {
+        "code": "CHC-02452",
+        "ward": "Ward 9A",
+        "name": "Suction and Intermittent Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3300HV",
+        "ref": "SC-193",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02453",
+        "ward": "Ward 9A",
+        "name": "Suction and Intermittent Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3300HV",
+        "sn": "-",
+        "ref": "SC-192",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02454",
+        "ward": "Ward 9A",
+        "name": "Suction and Intermittent Suction Regulator",
+        "brand": "PRECISION",
+        "model": "PM3300HV",
+        "sn": "-",
+        "ref": "SC-194",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02461",
+        "ward": "กายภาพ",
+        "name": "Hydrocollator(เครื่องต้มแผ่นให้ความร้อน)",
+        "brand": "บ.ยูนิตี้",
+        "model": "-",
+        "sn": "UM2561-0018",
+        "ref": "HD-01",
+        "caldate": "29-8-2019"
+    },
+    {
+        "code": "CHC-02470",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "54319",
+        "ref": "OF-167",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02471",
+        "ward": "วิสัญญี",
+        "name": "Oxygen Flow meter",
+        "brand": "SOLIDA",
+        "model": "-",
+        "sn": "54320",
+        "ref": "OF-168",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02472",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "-",
+        "model": "-",
+        "sn": "-",
+        "ref": "SC-163",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02473",
+        "ward": "OR",
+        "name": "Suction Regulator",
+        "brand": "HERSILL",
+        "model": "VACUSILL",
+        "sn": "-",
+        "ref": "SC-160",
+        "caldate": "27-8-2018"
+    },
+    {
+        "code": "CHC-02477",
+        "ward": "ศูนย์ความงาม",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx",
+        "sn": "-",
+        "ref": "PO-36",
+        "caldate": "21-8-2019"
+    },
+    {
+        "code": "CHC-02478",
+        "ward": "Ward 6A",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502568397",
+        "ref": "PO-38",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 11:44 น."
+    },
+    {
+        "code": "CHC-02479",
+        "ward": "Ward 5B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "50268398",
+        "ref": "PO-37",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 14:21 น."
+    },
+    {
+        "code": "CHC-02480",
+        "ward": "Ward 8B",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx",
+        "sn": "-",
+        "ref": "PO-40",
+        "caldate": "28-8-2018"
+    },
+    {
+        "code": "CHC-02488",
+        "ward": "Ortho",
+        "name": "Vital Signs Monitor",
+        "brand": "IRIS",
+        "model": "PMS8210A",
+        "ref": "NIBP-41",
+        "caldate": "27-8-2019"
+    },
+    {
+        "code": "CHC-02489",
+        "ward": "Vascular",
+        "name": "Vital Signs Monitor",
+        "brand": "IRIS",
+        "model": "PMS8210A",
+        "ref": "NIBP-42",
+        "caldate": "ยกเลิก"
+    },
+    {
+        "code": "CHC-02496",
+        "ward": "Ward 5B",
+        "name": "Vital Signs Monitor",
+        "brand": "IRIS",
+        "model": "PMS8210A-200",
+        "ref": "NIBP-43",
+        "caldate": "ยกเลิก",
+        "sn": "M10C-1809D01",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 14:52 น."
+    },
+    {
+        "code": "CHC-02539",
+        "ward": "CCU",
+        "name": "PaceMaker (เครื่องกระตุ้นหัวใจ)",
+        "brand": "MEDTRONIC",
+        "model": "53401",
+        "ref": "PM-02",
+        "caldate": "18-8-2020",
+        "sn": "MDB05493UP",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 11:57 น."
+    },
+    {
+        "code": "CHC-00146",
+        "ward": "ER",
+        "name": "Suction Regulator",
+        "brand": "PRECISION",
+        "model": "-",
+        "sn": "002717",
+        "ref": "SC-53",
+        "caldate": "29-8-2018"
+    },
+    {
+        "code": "CHC-02590",
+        "ref": "PO-48",
+        "ward": "Ward 7A",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502699485",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:52 น."
+    },
+    {
+        "code": "CHC-02588",
+        "ref": "PO-52",
+        "ward": "Ward 6A",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502699494",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 11:49 น."
+    },
+    {
+        "code": "CHC-02613",
+        "ref": "BP-73",
+        "ward": "Ward 8B",
+        "name": "Sphygmomanometer",
+        "brand": "SPIRIT",
+        "model": "CK-301",
+        "sn": "1801933",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 17:7 น."
+    },
+    {
+        "code": "CHC-02587",
+        "ref": "PO-49",
+        "ward": "Ward 5A",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502699486",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 14:9 น."
+    },
+    {
+        "code": "CHC-02589",
+        "ref": "PO-51",
+        "ward": "อายุรกรรม",
+        "name": "Pulse Oximeter",
+        "brand": "NONIN",
+        "model": "Onyx Vantage",
+        "sn": "502699493",
+        "caldate": "17-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 17-8-2020 เวลา 16:16 น."
+    },
+    {
+        "code": "CHC-02654",
+        "ref": "PO-53",
+        "ward": "Cardio",
+        "name": "Pulse Oximeter",
+        "brand": "ROSSMAX",
+        "model": "SB200",
+        "sn": "SB2003-02642",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 13:36 น."
+    },
+    {
+        "code": "CHC-02258",
+        "ref": "EST-02",
+        "ward": "Cardio",
+        "name": "Exercise Stress Test",
+        "brand": "Mortana",
+        "model": "XScribe",
+        "sn": "-",
+        "caldate": "18-8-2020",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 17:8 น."
+    },
+    {
+        "code": "codeCHC-",
+        "ref": "ref",
+        "ward": "ward",
+        "name": "name",
+        "brand": "brand",
+        "model": "model",
+        "sn": "sn",
+        "lastupdate": "เปลี่ยนแปลงข้อมูลล่าสุด: 18-8-2020 เวลา 13:43 น."
+    }
+]

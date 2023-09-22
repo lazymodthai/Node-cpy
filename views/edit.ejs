@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= title %></title>
+    <%- include('h.ejs')%>
+
+</head>
+
+<body style="background-color: rgb(90, 90, 90);">
+    <div class="container-md" style="margin-top: 10px;">
+        <% code.forEach((i) => { %>
+        <div class="card" style="float:none; margin: 0 auto;">
+            <div class="card-body">
+                <!-- <h5 class="card-title">Code : <span style="color: darkred;"><%= i.code%> </span>-- Edit Form</h5> -->
+                <form>
+                    <div class="form-group">
+                        <label>Code</label>
+                        <input type="text" class="form-control" id="code" name="code" readonly value="<%= i.code%>">
+                        <label>Reference Code</label>
+                        <input type="text" class="form-control" id="ref" name="ref" value="<%= i.ref%>"
+                            onfocus="this.value=''; this.placeholder='ใส่เครื่องหมาย - หากไม่มีข้อมูล'" required>
+                        <label>Ward</label>
+                        <select class="custom-select" name="ward" id="ward">
+                            <option selected="<%= i.ward%>"><%= i.ward%></option>
+                            <option value="Cardio">Cardio</option>
+                            <option value="Cath-Lab">Cath-Lab</option>
+                            <option value="CCU">CCU</option>
+                            <option value="Check-up">Check-up</option>
+                            <option value="Dental">Dental</option>
+                            <option value="ER">ER</option>
+                            <option value="ICU">ICU</option>
+                            <option value="Nursery">Nursery</option>
+                            <option value="OPD-GI">OPD-GI</option>
+                            <option value="OPD-เด็ก">OPD-เด็ก</option>
+                        
+                            <option value="OPD-ตา">OPD-ตา</option>
+                            <option value="OR">OR</option>
+                            <option value="OR,Scope">OR,Scope</option>
+                            <option value="Ortho">Ortho</option>
+                            <option value="Vascular">Vascular</option>
+                            <option value="Ward 5A">Ward 5A</option>
+                            <option value="Ward 5B">Ward 5B</option>
+                            <option value="Ward 6A">Ward 6A</option>
+                            <option value="Ward 6B">Ward 6B</option>
+                            <option value="Ward 7A">Ward 7A</option>
+                            <option value="Ward 7B">Ward 7B</option>
+                        
+                            <option value="Ward 8B">Ward 8B</option>
+                            <option value="Ward 9A">Ward 9A</option>
+                            <option value="Ward 9B">Ward 9B</option>
+                            <option value="X-ray">X-ray</option>
+                            <option value="ไตเทียม">ไตเทียม</option>
+                            <option value="กายภาพ">กายภาพ</option>
+                            <option value="ยานพาหนะ">ยานพาหนะ</option>
+                            <option value="วิสัญญี">วิสัญญี</option>
+                            <option value="วิสัญญี,Scope">วิสัญญี,Scope</option>
+                            <option value="ศัลยกรรม">ศัลยกรรม</option>
+                        
+                            <option value="ศูนย์กระดูก">ศูนย์กระดูก</option>
+                            <option value="ศูนย์ความงาม">ศูนย์ความงาม</option>
+                            <option value="สูติ-นรีเวช">สูติ-นรีเวช</option>
+                            <option value="ห้องคลอด">ห้องคลอด</option>
+                            <option value="อายุรกรรม">อายุรกรรม</option>
+                        </select>
+                        <label>Name</label>
+                        <select class="custom-select" name="name" id="name">
+    <option selected="<%= i.name%>"><%= i.name%></option>
+    <option value="Air Flow meter">Air Flow meter</option>
+    <option value="Ambulatory Blood Pressure Monitoring(บันทึกความดัน24 Hr)">Ambulatory Blood Pressure Monitoring(บันทึกความดัน24 Hr)</option>
+    <option value="Analog Blood Pressure (แบบเข็ม)">Analog Blood Pressure (แบบเข็ม)</option>
+    <option value="Ankle brachial index(เครื่องตรวจสมรรถภาพหลอดเลือดแดง)ABI">Ankle brachial index(เครื่องตรวจสมรรถภาพหลอดเลือดแดง)ABI</option>
+    <option value="Aspirators">Aspirators</option>
+    <option value="Bedside Monitor">Bedside Monitor</option>
+    <option value="Blood warmer(เครื่องอุ่นสารให้เลือด)">Blood warmer(เครื่องอุ่นสารให้เลือด)</option>
+    <option value="Centrifuge">Centrifuge</option>
+    <option value="cloth warmer(เครื่องอุ่นผ้า)">cloth warmer(เครื่องอุ่นผ้า)</option>
+    <option value="Digital Blood Pressure">Digital Blood Pressure</option>
+
+    <option value="Electrocardiograph">Electrocardiograph</option>
+    <option value="Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)">Electrosurgical Unit (ตัดจี้ด้วยไฟฟ้า)</option>
+    <option value="Exercise Stress Test">Exercise Stress Test</option>
+    <option value="Fetal Doppler">Fetal Doppler</option>
+    <option value="Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)">Fetal Monitor(เครื่องฟังเสียงหัวใจเด็ก)</option>
+    <option value="Forced air Warming Blankets">Forced air Warming Blankets</option>
+    <option value="Holter Recorder(บันทึกการเต้นของหัวใจ)">Holter Recorder(บันทึกการเต้นของหัวใจ)</option>
+    <option value="Hydrocollator(เครื่องต้มแผ่นให้ความร้อน)">Hydrocollator(เครื่องต้มแผ่นให้ความร้อน)</option>
+    <option value="Hypo / Hyperthermia">Hypo / Hyperthermia</option>
+    <option value="Infant Incubator(ตู้อบเด็กทารก)">Infant Incubator(ตู้อบเด็กทารก)</option>
+
+    <option value="Infant Vantilator">Infant Vantilator</option>
+    <option value="Infant Warmer (ช่วยเด็กแรกเกิด)">Infant Warmer (ช่วยเด็กแรกเกิด)</option>
+    <option value="Infrared Temp">Infrared Temp</option>
+    <option value="Interferential Therapy(รักษาด้วยคลื่นความถี่กระแสไฟฟ้า)">Interferential Therapy(รักษาด้วยคลื่นความถี่กระแสไฟฟ้า)</option>
+    <option value="Intermittent Suction Regulator">Intermittent Suction Regulator</option>
+    <option value="Knee Continuous Passive Motion(บริหารข้อเข่าแบบต่อเนื่อง)">Knee Continuous Passive Motion(บริหารข้อเข่าแบบต่อเนื่อง)</option>
+    <option value="Laser">Laser</option>
+    <option value="Microware Diathermy">Microware Diathermy</option>
+    <option value="Monitor CT">Monitor CT</option>
+    <option value="Monitor(MRI)">Monitor(MRI)</option>
+
+    <option value="Neopuff">Neopuff</option>
+    <option value="Oxygen Flow meter">Oxygen Flow meter</option>
+    <option value="PaceMaker (เครื่องกระตุ้นหัวใจ)">PaceMaker (เครื่องกระตุ้นหัวใจ)</option>
+    <option value="Pressure Cuff">Pressure Cuff</option>
+    <option value="Pulse Oximeter">Pulse Oximeter</option>
+    <option value="Radiant Warmer(ให้ความอบอุ่นเด็กด้วยแสง)">Radiant Warmer(ให้ความอบอุ่นเด็กด้วยแสง)</option>
+    <option value="Sphygmomanometer">Sphygmomanometer</option>
+    <option value="Spiro meter">Spiro meter</option>
+    <option value="Suction and Intermittent Suction Regulator">Suction and Intermittent Suction Regulator</option>
+    <option value="Suction Regulator">Suction Regulator</option>
+
+    <option value="Syring Driver">Syring Driver</option>
+    <option value="Syring Pump">Syring Pump</option>
+    <option value="Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)">Tens (ลดความเจ็บปวดเฉพาะจุดขนาดเล็ก)</option>
+    <option value="Thoracic Vacuum">Thoracic Vacuum</option>
+    <option value="Traction (ชุดดึงคอและหลังอัตโนมัติ)">Traction (ชุดดึงคอและหลังอัตโนมัติ)</option>
+    <option value="Treadmill(ลู่วิ่งไฟฟ้า)">Treadmill(ลู่วิ่งไฟฟ้า)</option>
+    <option value="Ultrasound(เครื่องรักษาด้วยคลื่นอัลตราซาวน์)">Ultrasound(เครื่องรักษาด้วยคลื่นอัลตราซาวน์)</option>
+    <option value="Vacuum Extractor (เครื่องช่วยคลอดโดยใช้แรงดูด)">Vacuum Extractor (เครื่องช่วยคลอดโดยใช้แรงดูด)</option>
+    <option value="Ventilator">Ventilator</option>
+    <option value="Vital Signs Monitor">Vital Signs Monitor</option>
+    
+    <option value="อ่างแช่พาราฟิน (Parafin Bath)">อ่างแช่พาราฟิน (Parafin Bath)</option>
+</select>
+                        <label>Brand</label>
+                        <input type="text" class="form-control" id="brand" name="brand" value="<%= i.brand%>"
+                            onfocus="this.value=''; this.placeholder='ใส่เครื่องหมาย - หากไม่มีข้อมูล'" required>
+                        <label>Model</label>
+                        <input type="text" class="form-control" id="model" name="model" value="<%= i.model%>"
+                            onfocus="this.value=''; this.placeholder='ใส่เครื่องหมาย - หากไม่มีข้อมูล'" required>
+                        <label>Serial Number</label>
+                        <input type="text" class="form-control" id="sn" name="sn" value="<%= i.sn%>"
+                            onfocus="this.value=''; this.placeholder='ใส่เครื่องหมาย - หากไม่มีข้อมูล'" required>
+                        <label>สถานะปัจจุบัน</label>
+                        <select class="form-control" name="caldate">
+                            <option selected value="<%= i.caldate%>"><%= i.caldate%></option>
+                            <option value="pass">Cal/PM แล้ว ผ่าน</option>
+                            <option value="ไม่ผ่าน">Cal/PM แล้ว ไม่ผ่าน</option>
+                            <option value="เสีย">เสีย</option>
+                            <option value="ส่งซ่อม">ส่งซ่อม</option>
+                            <option value="นำกลับ">นำกลับ</option>
+                            <option value="หาไม่พบ">หาไม่พบ</option>
+                            <option value="ยกเลิก">ยกเลิก</option>
+                        </select>
+
+
+                    </div>
+                    <button type="button" class="btn btn-info" onclick="reset()">คืนค่า</button>
+                    <button type="button" class="btn btn-dark" onclick="window.history.back()">ยกเลิก</button>
+                    <button type="submit" class="btn btn-success">บันทึก</button>
+                </form>
+                <script>
+                    let reset = () => {
+                        document.getElementById("ref").value = "<%= i.ref%>"
+                        document.getElementById("brand").value = "<%= i.brand%>"
+                        document.getElementById("model").value = "<%= i.model%>"
+                        document.getElementById("sn").value = "<%= i.sn%>"
+                    }
+                </script>
+            </div>
+        </div>
+        <% }) %>
+    </div>
+
+</body>
+
+</html>

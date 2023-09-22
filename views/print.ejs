@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><%=title%></title>
+  <%- include('h.ejs')%>
+</head>
+
+<body onload="sortTable(0)">
+  <table class="table table-bordered">
+    <tbody>
+      <tr>
+        <td><h4>รายการสอบเทียบ</h4></td>
+        <td colspan="2"><h4>โรงพยาบาลเจ้าพระยา</h4></td>
+      </tr>
+      <tr>
+        <td>ข้อมูลตั้งแต่วันที่ <%=startDate%></td>
+        <td>ถึงวันที่ <%=endDate%></td>
+        <td>จำนวนทั้งสิ้น <%= summ%> เครื่อง</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table class="table table-hover table-striped" id="tbShow" style="margin-bottom: 80px;">
+    <thead>
+      <tr class="bg-dark text-white">
+        <th scope="col" onclick="sortTable(0)" class="showX">Status</th>
+        <th scope="col" onclick="sortTable(1)" class="sizeX">Code</th>
+        <th scope="col" onclick="sortTable(2)" class="sizeX">Ref</span></th>
+        <th scope="col" onclick="sortTable(3)" class="sizeX">Ward</th>
+        <th scope="col" onclick="sortTable(4)" class="sizeX">Name</th>
+        <th scope="col" class="showX">Brand</th>
+        <th scope="col" class="showX">Model</th>
+        <th scope="col" class="sizeX">SN#</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <% if (showList.length > 0) { %>
+      <% showList.forEach((i) => { %>
+      <tr>
+        <td class="showX"><%= i.caldate %></td>
+        <td class="sizeX"><%= i.code %></td>
+        <td class="sizeX"><%= i.ref %></td>
+        <td class="sizeX"><%= i.ward %></td>
+        <td class="sizeX"><%= i.name %></td>
+        <td class="showX"><%= i.brand %></td>
+        <td class="showX"><%= i.model %></td>
+        <td class="sizeX"><%= i.sn %></td>
+      </tr>
+
+
+      <% }) %>
+
+      <% } else { %>
+      <tr>
+        <td colspan="8" class="bg-danger text-white text-center">ไม่พบข้อมูล!</td>
+      </tr>
+      <% } %>
+
+    </tbody>
+  </table>
+  <div class="container" style="text-align: center;">
+    <div class="row">
+      <div class="col">................................................................</div>
+      <div class="col">................................................................</div>
+      <div class="w-100"></div>
+      <div class="col">ผู้รายงานผล</div>
+      <div class="col">ผู้ตรวจรับของโรงพยาบาล</div>
+    </div>
+  </div>
+  <%- include('sort.ejs')%>
+</body>

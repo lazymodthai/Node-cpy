@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= title %></title>
+    <%- include('h.ejs')%>
+
+</head>
+
+<body style="background-color: rgb(90, 90, 90);">
+    <div class="container-md" style="margin-top: 10px;">
+        <div class="card" style="float:none; margin: 0 auto;">
+            <div class="card-body">
+                <form>
+                    <div class="form-group">
+                        <label>Code</label>
+                        <input type="text" class="form-control" id="code" name="code" required value="CHC-" style="text-transform: uppercase" onkeypress="return (event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode >= 48 && event.charCode <= 57)">
+                        <label>Reference Code</label>
+                        <input type="text" class="form-control" id="ref" name="ref"
+                            placeholder="ใส่เครื่องหมาย - หากไม่มีข้อมูล" required>
+                        <label>Ward</label>
+                        <%- include('lst-ward.ejs')%>
+                        <label>Name</label>
+                        <%- include('lst-name.ejs')%>
+                        <label>Brand</label>
+                        <input type="text" class="form-control" id="brand" name="brand"
+                            placeholder="ใส่เครื่องหมาย - หากไม่มีข้อมูล" required>
+                        <label>Model</label>
+                        <input type="text" class="form-control" id="model" name="model"
+                            placeholder="ใส่เครื่องหมาย - หากไม่มีข้อมูล" required>
+                        <label>Serial Number</label>
+                        <input type="text" class="form-control" id="sn" name="sn"
+                            placeholder="ใส่เครื่องหมาย - หากไม่มีข้อมูล" required>
+                        <label>สถานะปัจจุบัน</label>
+                        <select class="form-control" name="caldate">
+                            <option selected value="รายการใหม่">รายการใหม่</option>
+                            <option value="pass">Cal/PM แล้ว ผ่าน</option>
+                            <option value="ไม่ผ่าน">Cal/PM แล้ว ไม่ผ่าน</option>
+                            <option value="เสีย">เสีย</option>
+                            <option value="ส่งซ่อม">ส่งซ่อม</option>
+                            <option value="นำกลับ">นำกลับ</option>
+                            <option value="หาไม่พบ">หาไม่พบ</option>
+                            <option value="ยกเลิก">ยกเลิก</option>
+                        </select>
+
+
+                    </div>
+                    <button type="button" class="btn btn-info" onclick="reset()">รีเซ็ต</button>
+                    <button type="button" class="btn btn-dark" onclick="window.history.back()">ยกเลิก</button>
+                    <button type="submit" class="btn btn-success">เพิ่มข้อมูล</button>
+                </form>
+                <script>
+                    let reset = () => {
+                        document.getElementById("ref").value = ""
+                        document.getElementById("ward").value = ""
+                        document.getElementById("name").value = ""
+                        document.getElementById("brand").value = ""
+                        document.getElementById("model").value = ""
+                        document.getElementById("sn").value = ""
+                    }
+                </script>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

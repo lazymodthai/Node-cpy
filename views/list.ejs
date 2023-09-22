@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Folfix.co</title>
+  <%- include('h.ejs')%>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <%- include('modal-ward.ejs') %>
+    <%- include('modal-type.ejs') %>
+    <%- include('modal-print.ejs') %>
+
+
+    <form action="/show" method="GET">
+      <div class="input-group fixed-top container-fluid">
+        <span class="input-group-text bg-info text-white border-info" style="font-size: 1.5em;">ค้นหา</span>
+        <!-- </div> -->
+        <input type="text" class="form-control rounded-right border-info" required name="txtSearch"
+          placeholder="Code, Ref หรือ Serial Number" style="font-size: 1.5em;" autofocus>
+        <span class="btn btn-light border-dark" style="font-size: 1.5em;" data-toggle="modal" data-target="#modalPrint"><i class="fa fa-print"></i></span>
+
+      </div>
+      <div class="btn btn-block btn-success border-success" style="font-size: 1.5em; margin-top: 52px;"
+        onclick="location.href='/add'">เพิ่มรายการใหม่</div>
+    </form>
+    <div class="btn-toolbar btnX" role="toolbar" aria-label="Toolbar with button groups">
+      <div class="btn-group mr-2" role="group" aria-label="First group">
+        <a class="btn btn-secondary  text-white" onclick="location.href = '/'">แสดงทั้งหมด</a>
+        <a class="btn btn-secondary text-white" data-toggle="modal" data-target="#modalType">แสดงเฉพาะเครื่อง</a>
+        <a class="btn btn-secondary text-white" data-toggle="modal" data-target="#modalWard">แสดงเฉพาะ Ward</a>
+      </div>
+    </div>
+
+    <table class="table table-hover table-striped" id="tbShow" style="margin-bottom: 80px;">
+      <thead>
+        <tr class="bg-dark text-white">
+          <th scope="col" onclick="sortTable(0)" class="showX">Status</th>
+          <th scope="col" onclick="sortTable(1)" class="sizeX">Code</th>
+          <th scope="col" onclick="sortTable(2)" class="sizeX">Ref</span></th>
+          <th scope="col" onclick="sortTable(3)" class="sizeX">Ward</th>
+          <th scope="col" class="sizeX">Name</th>
+          <th scope="col" class="showX">Brand</th>
+          <th scope="col" class="showX">Model</th>
+          <th scope="col" class="sizeX">SN#</th>
+
+        </tr>
+      </thead>
+      <tbody>
+        <% if (showList.length > 0) { %>
+        <% showList.forEach((i) => { %>
+        <tr data-toggle="modal" data-target="<%= "#"+i.code %>" data-id="<%= i.code %>">
+          <td class="showX"><%= i.caldate %></td>
+          <td class="sizeX"><%= i.code %></td>
+          <td class="sizeX"><%= i.ref %></td>
+          <td class="sizeX"><%= i.ward %></td>
+          <td class="sizeX"><%= i.name %></td>
+          <td class="showX"><%= i.brand %></td>
+          <td class="showX"><%= i.model %></td>
+          <td class="sizeX"><%= i.sn %></td>
+        </tr>
+        <!-- Modal -->
+        <div class="modal fade" id="<%= i.code %>" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="ModalLabel">ข้อมูล <%= i.code %> <span
+                    style="color: #707C80; font-weight: 400; font-size: .7em;"><%= i.lastupdate %></span></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <!-- <p><span class="btn btn-dark">Status</span> : <span class="btn btn-light"><%= i.caldate %></span></p> -->
+                <p><span class="btn btn-dark">Code</span> : <span class="btn btn-light"><%= i.code %></span></p>
+                <p><span class="btn btn-dark">Reference</span> : <span class="btn btn-light"><%= i.ref %></span></p>
+                <p><span class="btn btn-dark">Ward</span> : <span class="btn btn-light"><%= i.ward %></span></p>
+                <p><span class="btn btn-dark">Name</span> : <span class="btn btn-light"><%= i.name %></span></p>
+                <p><span class="btn btn-dark">Brand</span> : <span class="btn btn-light"><%= i.brand %></span></p>
+                <p><span class="btn btn-dark">Model</span> : <span class="btn btn-light"><%= i.model %></span></p>
+                <p><span class="btn btn-dark">Serial Number</span> : <span class="btn btn-light"><%= i.sn %></span></p>
+              </div>
+              <div class="modal-footer">
+                <p class="mr-auto" style="color: red;"">Cal Date / Status : <%= i.caldate %></p>
+              <button type=" button" class="btn btn-primary" onclick="edit('<%= i.code %>')">แก้ไข</button>
+                  <button type="button" class="btn btn-danger" data-dismiss="modal">ปิดหน้าต่าง</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script>
+          function edit(ed) {
+            window.open('/edit?code=' + ed, "_self")
+          }
+        </script>
+
+
+        <% }) %>
+
+        <% } else { %>
+        <tr>
+          <td colspan="8" class="bg-danger text-white text-center">ไม่พบข้อมูล!</td>
+        </tr>
+        <% } %>
+
+      </tbody>
+    </table>
+  </div>
+  <%- include('sort.ejs')%>
+  </div>
+</body>
+
+</html>
